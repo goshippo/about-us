@@ -62,5 +62,3 @@ Use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognitio
 
 * Our [Hiring](hiring.md) Process
 * Our [Reading](reading.md) Club
-* [Trello Card Summarizing Google's Rework](https://trello.com/c/PaaC0uJ5/59-rework-google-on-psychological-safety)
-* [How to create Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
