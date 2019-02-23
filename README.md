@@ -33,7 +33,7 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * It's about the journey; expect __failure__ along the way as it takes many iterations to find the right solution (if ever)
       * Practice makes perfect
 
- * __Confer not defer__ - Everyone's opinions matter and its important to having meaningful discussions
+ * __Confer not defer__ - Your opinions matter and its important to voice them and have meaningful discussions
       * Ideas are selected based on merit not the size of your title or the length of your tenure
       * Understand how your work will/can impact others
       * Its ok to disagree, the key is everyone is heard and we commit to one direction
@@ -41,24 +41,24 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 
 * __Be Authentic__ - Be who you truly are, the good and the bad
     * Transparency is the best policy
-    * Frame "failure" or "weakness" as learning and growth oppurtunities
+    * Frame "failure" and "weakness" as learning and growth oppurtunities
     * Its ok to feel :pensive: or :cry: or :angry:, talk to someone and we can work through it together
     * There's no "killing it"; startups are built on trial and error and solving problems.. forever
     * We have lives outside of work, understanding the whole self matters and so does work/life balance
      
  * __Seek excellence through learning__ - Don't get complacent, find new ways to do things
       * Don't pick a path just because its easy or comfortable
-      * There's always multiple ways to do something, explore them    
+      * There are multiple ways to do something, explore them    
       * Seek guidance from others (inside or outside work), don't have the "invented here" mentality
-      * Give yourself the time and freedom to explore
+      * Give yourself the time and freedom to try new things
 
 ### Measured by what matters
 
 <img src=rsrcs/intel_corporate.png width=30% height=30%> <img src=rsrcs/intel_eng.png width=30% height=30%>
 
-Use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success
+We use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success
 - Focus - pick 2-3 objectives that really matter
-- Align - make sure every person and cross departments are aligned
+- Align - make sure every person and team across the company are aligned
 - Track - see if the results are bearing fruit, change course as needed
 - Stretch - aim high and stretch your goal and your mind to accomplish great things
 
@@ -66,6 +66,13 @@ Use CFRs to establish a learning culture
 - Continuous - Constant coaching and mentoring
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
+
+## Putting it in practice
+
+All this sounds great, but would be just another cliche "feel good" document if we didn't put the time and effort behind to implement it.  First off, the above is not "easy".  There's a lot going on and takes alot of practice to get good at it.  We're just starting our journey here so we're constantly learning how we can improve.
+
+- It starts at the top - from our founders to senior leadership, we have a learning attitude and always looking to grow our skills, become self-aware of our faults and look to grow ourselves.
+- Benefits that match our beliefs - we believe in vacation, we believe in taking time for family, we believe in investing in your education.
 
 ### Resources
 
