@@ -20,7 +20,7 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 
 ### Done right through Core Behaviors
 
- * __Care about...__ - This is the most important behavior as all other behaviors depend on this
+ * __Care about...__ - This is the most important behavior (listed in no particular order)
       * Care about the craftmanship of your work.
       * Care about Shippo.
       * Care about your coworkers and their success.
