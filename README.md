@@ -1,3 +1,5 @@
+(WIP) This is a work in progress and will need several refactors before we can adopt it as the "Shippo Way"
+
 ### Shippo's Mission
 
 <img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=50% height=50%>
