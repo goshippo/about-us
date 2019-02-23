@@ -1,12 +1,18 @@
 (WIP) This is a work in progress and will need several refactors before we can adopt it as the "Shippo Way"
 
-### Shippo's Mission
+## Shippo's Mission
 
-<img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=50% height=50%>
+<img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=30% height=30%>
 
 `Shippo empowers retailers, e-commerce platforms, marketplaces, logistics providers, and more with the building blocks they need to succeed with shipping.`
 
-### Our Team Culture
+## Our Team Culture
+
+Defined as `The system in which the team executes and behaves as a collective group`
+
+We do this in three major parts, Foundational Thinking, Core Behaviors and Measuring what matters
+
+### Foundational Thinking
 
 <img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
 
@@ -44,9 +50,17 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Seek guidance from others (inside or outside work), don't have the "invented here" mentality
       * Give yourself the time and freedom to explore
 
+### Measured by what matters
+
+Use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success
+- Focus
+- Align
+- Track
+- Stretch
 
 ### Resources
 
 * Our [Hiring](hiring.md) Process
+* Our [Reading](reading.md) Club
 * [Trello Card Summarizing Google's Rework](https://trello.com/c/PaaC0uJ5/59-rework-google-on-psychological-safety)
 * [How to create Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
