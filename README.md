@@ -30,7 +30,7 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
  * __Unearth Value__ - Figure out what the customer wants through continuous iteration and delivery
       * Understand the "why" first, Why are we working on this and how does it impact the user or customer?
       * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps, by providing useful functionality along the way.
-      * It's about the journey; expect __failure__ along the way and it takes many iterations to find the right solution
+      * It's about the journey; expect __failure__ along the way as it takes many iterations to find the right solution (if ever)
       * Practice makes perfect
 
  * __Confer not defer__ - Everyone's opinions matter and its important to having meaningful discussions
@@ -55,10 +55,10 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 ### Measured by what matters
 
 Use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success
-- Focus
-- Align
-- Track
-- Stretch
+- Focus - pick 2-3 objectives that really matter
+- Align - make sure every person and cross departments are aligned
+- Track - see if the results are bearing fruit, change course as needed
+- Stretch - aim high and stretch your goal and your mind to accomplish great things
 
 Use CFRs to establish a learning culture
 - Continuous - Constant coaching and mentoring
