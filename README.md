@@ -45,5 +45,6 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 
 ### Resources
 
+* Our [Hiring](hiring.md) Process
 * [Trello Card Summarizing Google's Rework](https://trello.com/c/PaaC0uJ5/59-rework-google-on-psychological-safety)
 * [How to create Pyschological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
