@@ -58,6 +58,11 @@ Use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognitio
 - Track
 - Stretch
 
+Use CFRs to establish a learning culture
+- Continuous - Constant coaching and mentoring
+- Feedback - Give specific and timely feedback
+- Recognition - celebrate the wins and the learnings
+
 ### Resources
 
 * Our [Hiring](hiring.md) Process
