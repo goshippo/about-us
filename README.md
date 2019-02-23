@@ -28,15 +28,16 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Care about learning and growing your skills.
 
  * __Unearth Value__ - Figure out what the customer wants through continuous iteration and delivery
-      * Understand the "why" first, Why are we working on this and how does it impacts the user or customer?
+      * Understand the "why" first, Why are we working on this and how does it impact the user or customer?
       * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps, by providing useful functionality along the way.
-      * Expect __failure__ along the way and feel the freedom to experiment to find the right solution
+      * It's about the journey, expect __failure__ along the way and it takes many iterations to find the right solution
       * Practice makes perfect
 
  * __Confer not defer__ - Everyone's opinions matter and its important to having meaningful discussions
-      * Ideas are selected based on merit not the size of your title or tenure
+      * Ideas are selected based on merit not the size of your title or the length of your tenure
       * Understand how your work will/can impact others
       * Its ok to disagree, the key is everyone is heard and we commit to one direction
+      * How will anyone know how you feel if you don't say it?
 
 * __Be Authentic__ - Be who you truly are, the good and the bad
     * Transparency is the best policy
