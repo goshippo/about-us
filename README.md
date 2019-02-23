@@ -1,5 +1,7 @@
 ### Shippo's Mission
 
+![]()
+
 `Shippo empowers retailers, e-commerce platforms, marketplaces, logistics providers, and more with the building blocks they need to succeed with shipping.`
 
 ### Our Team Culture
