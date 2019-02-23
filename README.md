@@ -1,4 +1,4 @@
-(WIP) This is a work in progress and will need several refactors before we can adopt it as the "Shippo Way"
+## (WORK IN PROGRESS)
 
 ## Shippo's Mission
 
