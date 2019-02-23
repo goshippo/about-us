@@ -11,6 +11,9 @@ Books:
 Articles:
 - [Google's Quest to build the perfect team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 - How to create [Psychological Safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
+- [Amazon's Two Pizza Box Theory](https://trello.com/c/WowtOMCo/29-amazon-2-pizza-box)
+- [Patreon's Culture Deck](https://www.slideshare.net/TylerSeanPalmer/patreons-culture-deck)
 
 Others:
 - [Collection of Interesting Articles](https://trello.com/b/LZ4pww7N/dev-leadership-articles)
+- [Psychological Safety Articles and Notes](https://trello.com/c/PaaC0uJ5/59-rework-google-on-psychological-safety)
