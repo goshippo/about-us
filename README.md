@@ -10,7 +10,7 @@
 
 Defined as `The system in which the team executes and behaves as a collective group`
 
-We do this in three major parts, Foundational Thinking, Core Behaviors and Measuring what matters
+We do this in three major parts: Foundational Thinking, Core Behaviors and Measuring what matters
 
 ### Foundational Thinking
 
@@ -27,7 +27,7 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Care about standards and quality.
       * Care about learning and growing your skills.
 
- * __Take small purposeful steps__ - Accomplish big things iterations at a time
+ * __Push to Prod__ - Accomplish big things by unearthing value in production
       * Understand the "why" first, Why are we working on this and how does it impacts the user or customer?
       * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps, by providing useful functionality along the way.
       * Expect __failure__ along the way and feel the freedom to experiment to find the right solution
