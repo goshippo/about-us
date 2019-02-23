@@ -17,23 +17,27 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Care about standards and quality.
       * Care about learning and growing your skills.
 
- * __Take small purposeful steps__ - We are doing some great things, but we can only get there one commit at a time.
-      * Understand "what" the problem statement is and how it impacts the user or customer
+ * __Take small purposeful steps__ - Accomplish big things iterations at a time
+      * Understand the "why" first, Why are we working on this and how does it impacts the user or customer?
       * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps, by providing useful functionality along the way.
       * Expect __failure__ along the way and feel the freedom to experiment to find the right solution
       * Practice makes perfect
 
- * __Confer, not defer__ - Everyone's opinions matter and its important to having meaningful discussions
+ * __Confer not defer__ - Everyone's opinions matter and its important to having meaningful discussions
       * Ideas are selected based on merit not the size of your title or tenure
-      * Listen with empathy, understand the other's point of view
       * Understand how your work will/can impact others
       * Its ok to disagree, the key is everyone is heard and we commit to one direction
+
+* __Be Authentic__ - Be who you truly are, the good and the bad
+      * Frame "failure" or "weakness" as learning and growth oppurtunities
+      * Its ok to feel negative or sad or angry, talk to someone and we can work through it together
+      * There's no "killing it", startups are built on trial and error and solving problems
      
- * __Seek learning and be uncomfortable__ - Don't get complacent, find new ways to do things
+ * __Seek excellence through learning__ - Don't get complacent, find new ways to do things
       * Don't pick a path just because its easy or comfortable
-      * Pick the right tool for the job
       * There's always multiple ways to do something, explore them    
-      * Seek guidance from others, don't have the "invented here" mentality
+      * Seek guidance from others (inside or outside work), don't have the "invented here" mentality
+      * Give yourself the time and freedom to explore
 
 
 ### Resources
