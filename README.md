@@ -31,9 +31,9 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Its ok to disagree, the key is everyone is heard and we commit to one direction
 
 * __Be Authentic__ - Be who you truly are, the good and the bad
-      * Frame "failure" or "weakness" as learning and growth oppurtunities
-      * Its ok to feel negative or sad or angry, talk to someone and we can work through it together
-      * There's no "killing it", startups are built on trial and error and solving problems
+    * Frame "failure" or "weakness" as learning and growth oppurtunities
+    * Its ok to feel negative or sad or angry, talk to someone and we can work through it together
+    * There's no "killing it", startups are built on trial and error and solving problems
      
  * __Seek excellence through learning__ - Don't get complacent, find new ways to do things
       * Don't pick a path just because its easy or comfortable
