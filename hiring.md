@@ -3,4 +3,4 @@
 
 Join us!
 
-<img src=shippo_hello.gif>
+<img src=rsrcs/shippo_hello.gif>

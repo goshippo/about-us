@@ -54,6 +54,8 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 
 ### Measured by what matters
 
+<img src=rsrcs/intel_corporate.png width=30% height=30%> <img src=rsrcs/intel_eng.png width=30% height=30%>
+
 Use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success
 - Focus - pick 2-3 objectives that really matter
 - Align - make sure every person and cross departments are aligned
