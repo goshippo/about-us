@@ -1,6 +1,6 @@
 ## Behavior [Anit-patterns](https://en.wikipedia.org/wiki/Anti-pattern)
 
-Here's a list of behavior warning signs to show you may be struggling.  We've found that once you get to these behaviors, its very hard to get out, so it's best to recognize them early and try to resolve them fast!
+Here's a list of behavior warning signs to show that the company is not supporting you.  We've found that once you get to these behaviors, its very hard to get out, so it's best to recognize them early and let's try to resolve them fast!
 
 ### Lack of Safety
 
@@ -17,11 +17,11 @@ Here's a list of behavior warning signs to show you may be struggling.  We've fo
 * You don't care about what the customers want
 * You feel unending pressure to deliver
 * You don't know why you are working on something
-* You're learning new technologies only to advance your career
 
-### You're getting jaded
+### We've made you jaded
 
 * You listen to "culture" or "behavior" talks with disdain
 * You think leadership sucks
 * You're just here for the free lunch
 * You're just here because your friends are
+* You're learning new technologies only to advance your career
