@@ -101,7 +101,7 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 
 - It starts at the top - from our founders to senior leadership to individual contributors, we have a growth mindset and are humble enough to know we don't know everything.
 - Feedback is ingrained - from 1x1s to 360 reviews to [Reboot circles](https://www.reboot.io/) to celebrating our wins and coaching and mentoring all the time.
-- We put our money where our mouth is, we pay for you to learn and you have a yearly self improvement budget and we expect you to spend it!
+- We put our :money_with_wings: where our mouth is, we pay for you to learn and you have a yearly self improvement budget that we expect you to spend!
 - Company wide OKRs are communicated broadly and time is spent to get them right.  And if they aren't right, we throw them away.
 - Aspirational OKRs are evaluated by our ability to hit 70% of the targets, and we conduct post mortems to figure out how to improve it next time
 - This repo itself is a living document that can change and morph as we grow
