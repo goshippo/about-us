@@ -18,7 +18,7 @@ So let's start with the summary: _Foundational Thinking, done right through core
 
 <img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
 
-The two powerful dimensions of team success is [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) and Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).  Getting to the "learning zone" is what we strive for here.
+The two powerful dimensions of team success is [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) and Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).  Getting to the "learning zone" and applying what you learned to your day to day is what we strive for here.
 
 ### Done right through Core Behaviors
 
