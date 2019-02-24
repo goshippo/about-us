@@ -14,9 +14,11 @@ Here's a list of behavior warning signs to show that the company is not supporti
 
 * You are anxious at meetings with leadership
 * You are constantly getting pulled in different directions by your work
-* You don't care about what the customers want
 * You feel unending pressure to deliver
 * You don't know why you are working on something
+* You don't know what the customer wants
+* You haven't learned anything new recently
+* You don't have time to clean up tech or process debt
 
 ### We've made you jaded
 
