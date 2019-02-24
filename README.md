@@ -56,7 +56,11 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 
 ### Measured by what matters
 
-<img src=rsrcs/intel_corporate.png width=30% height=30%> <img src=rsrcs/intel_eng.png width=30% height=30%>
+
+Intel's actual OKRs referenced in "Measure What Matters"
+
+<img src=rsrcs/intel_corporate.png width=30% max-height=50%>
+<img src=rsrcs/intel_eng.png width=30% max-height=50%>
 
 We use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success
 - Focus - pick 2-3 objectives that really matter
@@ -104,4 +108,5 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 ### Resources
 
 * Our [Hiring](hiring.md) Process
+* Effective [1x1s](1x1.md)
 * Our [Reading](reading.md) Club
