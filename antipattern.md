@@ -28,3 +28,4 @@ Here's a list of behavior warning signs to show that the company is not supporti
 * You're just here for the free lunch
 * You're just here because your friends are
 * You're learning new technologies only to advance your career
+* You're here to collect a paycheck
