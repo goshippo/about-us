@@ -48,11 +48,12 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
     * There's no "killing it"; startups are built on trial and error and solving problems.. forever
     * Being successful is a healthy intersection of work and life
      
- * __Seek excellence through learning__ - continuous improvement is how to get to level :arrow_up:
+ * __Seek excellence through learning__ - continuous improvement is how we level :arrow_up:
       * Don't pick a path only because its easy or comfortable
       * There are multiple ways to do something, explore them    
       * Seek guidance from others (inside or outside work), don't have the "invented here" mentality
       * Give yourself the time and freedom to try new things
+      * Figure out how to apply things you've read to your day to day
 
 ### Measured by what matters
 
