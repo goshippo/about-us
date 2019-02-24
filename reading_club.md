@@ -14,6 +14,9 @@ Articles:
 - [Amazon's Two Pizza Box Theory](https://trello.com/c/WowtOMCo/29-amazon-2-pizza-box)
 - [Patreon's Culture Deck](https://www.slideshare.net/TylerSeanPalmer/patreons-culture-deck)
 
+Videos:
+- [Forget the pecking order at work](https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work?language=en) - great video about how to build a team, not just have "super chickens"
+
 Business Specific:
 - [Hwo Shyp Sunk](https://www.fastcompany.com/40549442/how-shyp-sunk-the-rise-and-fall-of-an-on-demand-startup)
 
