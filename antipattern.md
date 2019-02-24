@@ -1,6 +1,6 @@
 ## Behavior [Anit-patterns](https://en.wikipedia.org/wiki/Anti-pattern)
 
-Here's a list of behavior warning signs to show you may be struggling and that you should seek help to improve.  We've found that once you get to these behaviors, its very hard to get out, so best to recognize them early and try to resolve them fast!
+Here's a list of behavior warning signs to show you may be struggling.  We've found that once you get to these behaviors, its very hard to get out, so best to recognize them early and try to resolve them fast!
 
 * You are anxious at meetings with leadership
 * You don't feel like people listen to you and have stopped offering suggestions
