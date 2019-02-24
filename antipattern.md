@@ -1,6 +1,6 @@
 ## Behavior [Anit-patterns](https://en.wikipedia.org/wiki/Anti-pattern)
 
-Here's a list of behavior warning signs to show that the company is not supporting you.  We've found that once you get to these behaviors, its very hard to get out.  As leadership, it's __our job__ to make sure you don't get here and if you do, we're committed to work with you to make it better.
+Here's a list of behavior warning signs to show that the company is not supporting you.  We've found that once you get to these behaviors, its very hard to get out.  As leadership, it's `our job` to make sure you don't get here and if you do, we're committed to work with you to make it better.
 
 ### Lack of Safety
 
