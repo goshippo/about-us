@@ -10,7 +10,9 @@
 
 Defined as `The system in which the team executes and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
-The three major parts can be summarized by: _Foundational Thinking, done right through core behaviors, measured by what matters_
+First we need to define a common language so we all know what we're talking about.
+
+So let's start with the summary: _Foundational Thinking, done right through core behaviors, measured by what matters_
 
 ### Foundational Thinking
 
