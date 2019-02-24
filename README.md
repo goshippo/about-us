@@ -12,7 +12,7 @@ Defined as `The system in which the team executes, makes decisions and behaves a
 
 First we need to define a common language so we all know what we're talking about.
 
-So let's start with the summary: _Our guiding philosophy, implemented by core behaviors, measured by what matters_ :boom:
+So let's start with the summary: _Our guiding philosophy, through core behaviors, measured by what matters_ :boom:
 
 ### Our Guiding Philosophy
 
@@ -20,7 +20,7 @@ So let's start with the summary: _Our guiding philosophy, implemented by core be
 
 The two powerful dimensions of team success is [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) and Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).  Getting to the "learning zone" and applying what you learned to your day to day is what we strive for here.
 
-### Core Behaviors
+### Through Core Behaviors
 
  * __Care about...__ - This is the most important behavior (listed in no particular order)
       * Care about the craftmanship of your work.
