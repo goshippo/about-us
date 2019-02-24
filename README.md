@@ -69,7 +69,9 @@ Use CFRs to establish a learning culture
 
 ## Putting it in practice
 
-Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  Here's how we put these words into action
+<img src=rsrcs/keep_calm.jpeg width=20% height=20%>
+
+Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  Here's how we put these words into action and make these behaviors everday things we do.
 
 ### Give Time
 
