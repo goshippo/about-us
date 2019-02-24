@@ -71,7 +71,7 @@ Use CFRs to establish a learning culture
 
 <img src=rsrcs/keep_calm.jpeg width=20% height=20%>
 
-Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  Here's how we put these words into action and make these behaviors everday things we do.
+Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  By making it part of our day to day activities like these:
 
 ### Give Time
 
@@ -85,15 +85,17 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 
 - Interviews and hiring based on culture fit, ranking higher than technical ability
 - Performance reviews based on core behaviors and how you've grown
+- Your responsibilities increase as you practice and embody these values.
 - 1x1s are focused around you and how we can help you learn and grow and build up your muscles embodied in this doc
-- We will talk about this doc all the time until you're sick of it.
+- We will talk about the concepts in this doc all the time until you're sick of it.
 
 ### Growth mindset
 
 - It starts at the top - from our founders to senior leadership to individual contributors, we have a growth mindset and are humble enough to know we don't know everything.
 - Feedback is ingrained - from 1x1s to 360 reviews to celebrating our wins and coaching and mentoring all the time.
 - We put our money where our mouth is, we pay for you to learn and you have a yearly self improvement budget and we expect you to spend it!
-- OKRs are built for inspirational goals and focus on improvement when we don't hit them.
+- Company wide OKRs are communicated broadly and time is spent to get them right.  And if they aren't right, we throw them away.
+- Aspirational OKRs are evaluated by our ability to hit 70% of the targets, and we conduct post mortems to figure out how to improve it next time
 - This repo itself is a living document that can change and morph as we grow
 
 ### Resources
