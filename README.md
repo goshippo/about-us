@@ -12,9 +12,9 @@ Defined as `The system in which the team executes, makes decisions and behaves a
 
 First we need to define a common language so we all know what we're talking about.
 
-So let's start with the summary: _Team Success, through core behaviors, measured by what matters_ :boom:
+So let's start with the summary: _Our guiding philosophy, implemented by core behaviors, measured by what matters_ :boom:
 
-### Team Success
+### Our Guiding Philosophy
 
 <img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
 
@@ -56,7 +56,6 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Figure out how to apply things you've read to your day to day
 
 ### Measured by what matters
-
 
 Intel's actual OKRs referenced in "Measure What Matters"
 
