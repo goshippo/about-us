@@ -27,9 +27,9 @@ Here's a list of behavior warning signs to show that the company is not supporti
 
 ### We've made you jaded
 
-* You listen to "culture" or "behavior" talks with disdain
+* You listen to "culture" or "core values" talks with disdain
 * You think leadership sucks
-* You're just here for the free lunch
+* You're just here for the benefits
 * You're just here because your friends are
 * You're learning new technologies only to advance your career
 * You're here to collect a paycheck
