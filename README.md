@@ -93,7 +93,7 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 
 - Interviews and hiring based on culture fit, ranking higher than technical ability
 - Performance reviews based on core behaviors and how you've grown
-- Your responsibilities increase as you practice and embody these values.
+- Your responsibilities [increase](growing.md) as you practice and embody these values.
 - [1x1s](1x1.md) are focused around you and how we can help you learn and grow and build up your behavioral muscles
 - We will talk about the concepts until you're :dizzy_face:, er.. I mean :heart:ing it :joy:
 
