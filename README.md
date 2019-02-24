@@ -104,4 +104,5 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 ### Resources
 
 * Our [Hiring](hiring.md) Process
+* Effective [1x1s](1x1.md)
 * Our [Reading](reading.md) Club
