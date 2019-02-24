@@ -4,9 +4,11 @@ This doc describes how we grow in responsibilities at Shippo.  Its really a guid
 
 ### How we evaluate performance
 
-- How well you embody our team culture related to _Foundational thinking, done right through core behaviors, measured by what matters_
-- How your opnions and ideas are implemented in meaniful ways
-- How well you understand the business impact of what you do
+- How well are you accomplishing _Team success, through core behaviors, measured by what matters_
+  - How your opnions and ideas are implemented in meaniful ways
+  - How has your work impacted the business
+  - How well do you execute on your OKRs
+  - Is your team successful?  Or just yourself?
 
 ### Tiers
 
