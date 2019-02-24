@@ -2,7 +2,7 @@
 
 ![stress](rsrcs/stress.jpg)
 
-Here's a list of behavior warning signs to show that the company is not supporting you.  We've found that once you get to these behaviors, its very hard to get out.  As leadership, it's `our job` to make sure you don't get here and if you do, we're committed to work with you to make it better.
+Here's a list of behavior warning signs to show that the company is not supporting you.  We've found that once you get to these behaviors, its very hard to get out.  As leadership, it's `our job` to make sure you don't get here and if you do, we're committed to working with you to make it better.
 
 ### Lack of Safety
 
@@ -24,6 +24,7 @@ Here's a list of behavior warning signs to show that the company is not supporti
 * You don't have time to clean up tech or process debt
 * You are working nights and weekends
 * You haven't taken a vacation in awhile
+* You don't get recognized for your work
 
 ### We've made you jaded
 
