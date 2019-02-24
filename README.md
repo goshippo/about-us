@@ -43,7 +43,7 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 
 * __Be Authentic__ - we are more than our work, we are human and we're fallible
     * Transparency is the best policy
-    * Frame "failure" and "weakness" as learning and growth oppurtunities
+    * Frame "failure" and "weakness" as learning and growth opportunities
     * Its ok to feel :pensive: or :cry: or :angry:, talk to someone and we can work through it together
     * There's no "killing it"; startups are built on trial and error and solving problems.. forever
     * Being successful is a healthy intersection of work and life
@@ -109,4 +109,5 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 
 * Our [Hiring](hiring.md) Process
 * Effective [1x1s](1x1.md)
+* Behavior [Antipatterns[(antipattern.md)
 * Our [Reading](reading.md) Club
