@@ -14,6 +14,9 @@ Articles:
 - [Amazon's Two Pizza Box Theory](https://trello.com/c/WowtOMCo/29-amazon-2-pizza-box)
 - [Patreon's Culture Deck](https://www.slideshare.net/TylerSeanPalmer/patreons-culture-deck)
 
+Business Specific:
+- [Hwo Shyp Sunk](https://www.fastcompany.com/40549442/how-shyp-sunk-the-rise-and-fall-of-an-on-demand-startup)
+
 Others:
 - [Collection of Interesting Articles](https://trello.com/b/LZ4pww7N/dev-leadership-articles)
 - [Psychological Safety Articles and Notes](https://trello.com/c/PaaC0uJ5/59-rework-google-on-psychological-safety)
