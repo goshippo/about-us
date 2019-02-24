@@ -37,7 +37,7 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Ideas are selected based on merit not the size of your title or the length of your tenure
       * Understand how your work will/can impact others
       * Its ok to disagree, the key is everyone is heard and we commit to one direction
-      * How will anyone know how you feel if you don't say it?
+      * Pyschological safety is built around your ability to express your opinions without fear, so if you don't say it, how will anyone know?
 
 * __Be Authentic__ - Be who you truly are, the good and the bad
     * Transparency is the best policy
@@ -87,7 +87,7 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 - Performance reviews based on core behaviors and how you've grown
 - Your responsibilities increase as you practice and embody these values.
 - 1x1s are focused around you and how we can help you learn and grow and build up your muscles embodied in this doc
-- We will talk about the concepts in this doc all the time until you're sick of it.
+- We will talk about the concepts until you're :dizzy_face:, er.. I mean :heart: it :joy:
 
 ### Growth mindset
 
