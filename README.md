@@ -69,10 +69,29 @@ Use CFRs to establish a learning culture
 
 ## Putting it in practice
 
-All this sounds great, but would be just another cliche "feel good" document if we didn't put the time and effort behind to implement it.  First off, the above is not "easy".  There's a lot going on and takes alot of practice to get good at it.  We're just starting our journey here so we're constantly learning how we can improve.
+Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  Here's how we put these words into action
 
-- It starts at the top - from our founders to senior leadership, we have a learning attitude and always looking to grow our skills, become self-aware of our faults and look to grow ourselves.
-- Benefits that match our beliefs - we believe in vacation, we believe in taking time for family, we believe in investing in your education.
+### Give Time
+
+- Kanban model to limit WIP so engineers have time to do their work right
+- A week dedicated a quarter for hackathons (we have 2 types: Be a Customer and Free Thought)
+- We expect work/life balance.  You should have your weekends and vacation to recharge.  When we have company holidays, we take them off.
+- On-call that's reasonable, when you're on-call, you're on call, when you're not, you're not.
+- Tech debt is paid at constant intervals and all projects accounts for this time.
+
+### We really care about culture
+
+- Interviews and hiring based on culture fit, ranking higher than technical ability
+- Performance reviews based on core behaviors and how you've grown
+- We determine your role based both on Shippo needs and your desires/
+
+### Growth mindset
+
+- It starts at the top - from our founders to senior leadership to individual contributors, we have a growth mindset and are humble enough to know we don't know everything.
+- Feedback is ingrained - from 1x1s to 360 reviews to celebrating our wins and coaching and mentoring all the time.
+- We put our money where our mouth is, we pay for you to learn and you have a self improvement budget
+- OKRs are built for inspirational goals and focus on improvement when we don't hit them
+- This repo itself is a living document that can change and morph as we grow
 
 ### Resources
 
