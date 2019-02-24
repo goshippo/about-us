@@ -110,4 +110,4 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 * Our [Hiring](hiring.md) Process
 * Effective [1x1s](1x1.md)
 * Behavior [Antipatterns[(antipattern.md)
-* Our [Reading](reading.md) Club
+* Our [Reading](reading_club.md) Club
