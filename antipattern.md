@@ -20,6 +20,8 @@ Here's a list of behavior warning signs to show that the company is not supporti
 * You don't know what the customer wants
 * You haven't learned anything new recently
 * You don't have time to clean up tech or process debt
+* You are working nights and weekends
+* You haven't taken a vacation in awhile
 
 ### We've made you jaded
 
