@@ -9,10 +9,11 @@ Here's a list of behavior warning signs to show that the company is not supporti
 * You want to be promoted to be heard
 * You can only talk about the problems at work in the shadows
 * You don't have anyone to turn to with your issues at work
+* You are anxious at meetings with leadership
+* You're anxious when leadership pings you
 
 ### Work Anxiety
 
-* You are anxious at meetings with leadership
 * You are constantly getting pulled in different directions by your work
 * You feel unending pressure to deliver
 * You don't know why you are working on something
