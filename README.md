@@ -30,15 +30,15 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Care about learning and growing your skills.
 
  * __Unearth Value__ - Figure out what the customer wants through continuous iteration and delivery
-      * Understand the "why" first, Why are we working on this and how does it impact the user or customer?
-      * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps, by providing useful functionality along the way.
-      * It's about the journey; expect __failure__ along the way as it takes many iterations to find the right solution (if ever)
-      * Practice makes perfect
+      * Understand the "why" first; Why are we working on this and how does it impact the user or customer?
+      * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps and  provide useful functionality along the way.
+      * It's about the journey; expect __failure__ along the way as it will take many iterations to find the right solution (if ever)
+      * Practice on small bug fixes first before graduating to large features or projects
 
  * __Confer not defer__ - Your opinions matter and its important to voice them and have meaningful discussions
       * Ideas are selected based on merit not the size of your title or the length of your tenure
       * Understand how your work will/can impact others
-      * Its ok to disagree, the key is everyone is heard and we commit to one direction
+      * Its ok to disagree, the key is everyone is heard and then we commit to one direction.
       * Pyschological safety is built around your ability to express your opinions without fear, so if you don't say it, how will anyone know?
 
 * __Be Authentic__ - we are more than our work, we are human and we're fallible
@@ -48,8 +48,8 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
     * There's no "killing it"; startups are built on trial and error and solving problems.. forever
     * Being successful is a healthy intersection of work and life
      
- * __Seek excellence through learning__ - Don't get complacent, find new ways to do things
-      * Don't pick a path just because its easy or comfortable
+ * __Seek excellence through learning__ - continuous improvement is how to get to level :arrow_up:
+      * Don't pick a path only because its easy or comfortable
       * There are multiple ways to do something, explore them    
       * Seek guidance from others (inside or outside work), don't have the "invented here" mentality
       * Give yourself the time and freedom to try new things
