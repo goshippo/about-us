@@ -41,12 +41,12 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
       * Its ok to disagree, the key is everyone is heard and we commit to one direction
       * Pyschological safety is built around your ability to express your opinions without fear, so if you don't say it, how will anyone know?
 
-* __Be Authentic__ - Be who you truly are, the good and the bad
+* __Be Authentic__ - we are more than our work, we are human and we're fallible
     * Transparency is the best policy
     * Frame "failure" and "weakness" as learning and growth oppurtunities
     * Its ok to feel :pensive: or :cry: or :angry:, talk to someone and we can work through it together
     * There's no "killing it"; startups are built on trial and error and solving problems.. forever
-    * We have lives outside of work, understanding the whole self matters and so does work/life balance
+    * Being successful is a healthy intersection of work and life
      
  * __Seek excellence through learning__ - Don't get complacent, find new ways to do things
       * Don't pick a path just because its easy or comfortable
@@ -95,7 +95,7 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 ### Growth mindset
 
 - It starts at the top - from our founders to senior leadership to individual contributors, we have a growth mindset and are humble enough to know we don't know everything.
-- Feedback is ingrained - from 1x1s to 360 reviews to celebrating our wins and coaching and mentoring all the time.
+- Feedback is ingrained - from 1x1s to 360 reviews to [Reboot circles](https://www.reboot.io/) to celebrating our wins and coaching and mentoring all the time.
 - We put our money where our mouth is, we pay for you to learn and you have a yearly self improvement budget and we expect you to spend it!
 - Company wide OKRs are communicated broadly and time is spent to get them right.  And if they aren't right, we throw them away.
 - Aspirational OKRs are evaluated by our ability to hit 70% of the targets, and we conduct post mortems to figure out how to improve it next time
