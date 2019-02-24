@@ -84,9 +84,9 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 
 - [Kanban](kanban.md) model to limit WIP so engineers have time to do their work right.
 - [1x1s](1x1.md) focused on you.
-- A week dedicated a quarter for [hackathons](hackathon.md) (we have 2 types: Be a Customer and Free Thought)
+- A week dedicated a quarter for [hackathons](hackathon.md)
 - We expect work/life balance.  You should have your weekends and vacation to recharge.  When we have company holidays, we take them off.
-- On-call that's reasonable, when you're on-call, you're on call, when you're not, you're not.
+- On-call that's reasonable; when you're on-call, you're on call, when you're not, you're not.
 - Tech debt is paid at constant intervals and all projects accounts for this time.
 
 ### We really care about culture
@@ -94,8 +94,8 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 - Interviews and hiring based on culture fit, ranking higher than technical ability
 - Performance reviews based on core behaviors and how you've grown
 - Your responsibilities increase as you practice and embody these values.
-- 1x1s are focused around you and how we can help you learn and grow and build up your muscles embodied in this doc
-- We will talk about the concepts until you're :dizzy_face:, er.. I mean :heart: it :joy:
+- [1x1s](1x1.md) are focused around you and how we can help you learn and grow and build up your behavioral muscles
+- We will talk about the concepts until you're :dizzy_face:, er.. I mean :heart:ing it :joy:
 
 ### Growth mindset
 
