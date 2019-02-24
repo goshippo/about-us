@@ -15,6 +15,8 @@ Here's a list of behavior warning signs to show you may be struggling.  We've fo
 * You are anxious at meetings with leadership
 * You are constantly getting pulled in different directions by your work
 * You don't care about what the customers want
+* You feel unending pressure to deliver
+* You don't know why you are working on something
 * You're learning new technologies only to advance your career
 
 ### You're getting jaded
