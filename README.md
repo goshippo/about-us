@@ -35,12 +35,10 @@ Behavior  | Oogway Says:
 
 ### Measuring what matters
 
-Intel's actual OKRs referenced in "Measure What Matters"
+<img src=rsrcs/shipmypants.gif>
 
-<img src=rsrcs/intel_corporate.png width=30% max-height=50%>
-<img src=rsrcs/intel_eng.png width=30% max-height=50%>
+To ensure we're working on the right thing, we use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success.  Here's the 4 key parts:
 
-We use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success
 - Focus - pick 2-3 objectives that really matter
 - Align - make sure every person and team across the company are aligned
 - Track - see if the results are bearing fruit, change course as needed
@@ -55,7 +53,7 @@ Use CFRs to establish a learning culture
 
 <img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
 
-We are trying to unlock the two powerful dimensions of team success:
+We are trying to unlock the two powerful dimensions of team (and company) success:
   * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
   * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
   
