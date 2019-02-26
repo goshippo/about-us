@@ -56,7 +56,7 @@ CFRs to encourage and guide the team
 
 ### Leads to Team and Company Success
 
-<img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
+<img src=rsrcs/learning_zone.jpeg>
 
 We are trying to unlock the two powerful dimensions of team (and company) success:
   * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
@@ -66,7 +66,7 @@ Using our core behaviors everyday and measuring our progress and giving us purpo
 
 ## Putting it in practice
 
-<img src=rsrcs/keep_calm.jpeg width=20% height=20%>
+<img src=rsrcs/keep_calm.jpeg><br/>
 
 Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  By making it part of our day to day activities like these:
 
