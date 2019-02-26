@@ -15,7 +15,7 @@ First we need to define a common language so we all know what we're talking abou
 So let's start with the summary:
 
 
-**_Core behaviors leads to team success measured by what matters_** :boom:
+**_Core behaviors and measuring what matters leads to team success_** :boom:
 
 ---
 
@@ -33,17 +33,7 @@ Behavior  | Oogway Says:
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no "killing it"
 [Learn From Others](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#learn-from-others) | Free your mind
 
-### Leads to Team Success
-
-<img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
-
-We are trying to unlock the two powerful dimensions of team success:
-  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
-  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
-  
-Getting to the "learning zone" and applying what you learned to your day to day is what we strive for here.
-
-### Measured by what matters
+### Measuring what matters
 
 Intel's actual OKRs referenced in "Measure What Matters"
 
@@ -60,6 +50,16 @@ Use CFRs to establish a learning culture
 - Continuous - Constant coaching and mentoring
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
+
+### Leads to Team Success
+
+<img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
+
+We are trying to unlock the two powerful dimensions of team success:
+  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
+  
+Getting to the "learning zone" and applying what you learned to your day to day is what we strive for here.
 
 ## Putting it in practice
 
