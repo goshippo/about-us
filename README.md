@@ -63,7 +63,7 @@ Our two core tenants are trying to unlock the two powerful dimensions of team (a
   * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
   * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
   
-Using our core behaviors everyday and measuring our progress and giving us purpose helps us reach the "learning zone".
+Adopting core behaviors and measuring what matters helps us reach the "learning zone".
 
 ## Putting it in practice
 
