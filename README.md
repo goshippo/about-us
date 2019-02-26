@@ -59,7 +59,7 @@ We are trying to unlock the two powerful dimensions of team success:
   * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
   * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
   
-Getting to the "learning zone" and applying what you learned to your day to day is what we strive for here.
+Using our core behaviors everyday and measuring our progress and giving us purpose helps us reach the "learning zone".
 
 ## Putting it in practice
 
