@@ -22,38 +22,16 @@ The two powerful dimensions of team success is [Psychological Safety](https://ww
 
 ### Core Behaviors
 
- * __Care about...__ - This is the most important behavior (listed in no particular order)
-      * Care about the craftmanship of your work.
-      * Care about Shippo.
-      * Care about your coworkers and their success.
-      * Care about standards and quality.
-      * Care about learning and growing your skills.
+<img src=rsrcs/oogway.gif>
 
- * __Unearth Value__ - Figure out what the customer wants through continuous iteration and delivery
-      * Understand the "why" first; Why are we working on this and how does it impact the user or customer?
-      * Think "[how](https://blog.crisp.se/wp-content/uploads/2016/01/mvp.png)" can I do this in incremental steps and  provide useful functionality along the way.
-      * It's about the journey; expect __failure__ along the way as it will take many iterations to find the right solution (if ever)
-      * Practice on small bug fixes first before graduating to large features or projects
+Behavior  | Oogway Says:
+--------- | -----------
+[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#care-about) | Give a Ship
+[Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#unearth-value) | Failure leads to success
+[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#confer-not-defer) | Question the HiPPO
+[Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no killing it
+[Seek Excellence through Learning](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#seek-excellence-through-learning) | do or do not, there's no try
 
- * __Confer not defer__ - Your opinions matter and its important to voice them and have meaningful discussions
-      * Ideas are selected based on merit not the size of your title or the length of your tenure
-      * Understand how your work will/can impact others
-      * Its ok to disagree, the key is everyone is heard and then we commit to one direction.
-      * Pyschological safety is built around your ability to express your opinions without fear, so if you don't say it, how will anyone know?
-
-* __Be Authentic__ - we are more than our work, we are human and we're fallible
-    * Transparency is the best policy
-    * Frame "failure" and "weakness" as learning and growth opportunities
-    * Its ok to feel :pensive: or :cry: or :angry:, talk to someone and we can work through it together
-    * There's no "killing it"; startups are built on trial and error and solving problems.. forever
-    * Being successful is a healthy intersection of work and life
-     
- * __Seek excellence through learning__ - continuous improvement is how we level :arrow_up:
-      * Don't pick a path only because its easy or comfortable
-      * There are multiple ways to do something, explore them    
-      * Seek guidance from others (inside or outside work), don't have the "invented here" mentality
-      * Give yourself the time and freedom to try new things
-      * Figure out how to apply things you've read to your day to day
 
 ### Measured by what matters
 
