@@ -35,10 +35,10 @@
 * Being successful is a healthy intersection of work and life
      
 ### Learn From Others
-`Do or do not, there's no try` - continuous improvement is how we learn and level :arrow_up:
+`Do or do not, there's no try` - seek knowledge from all over and we can easily level :arrow_up:
 
+* Seek guidance from others (inside or outside work), don't have the "invented here" mentality
 * Don't pick a path only because its easy or comfortable
 * There are multiple ways to do something, explore them    
-* Seek guidance from others (inside or outside work), don't have the "invented here" mentality
 * Give yourself the time and freedom to try new things
 * Figure out how to apply things you've read to your day to day
