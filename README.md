@@ -10,16 +10,17 @@
 
 Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
-First we need to define a common language so we all know what we're talking about.
-
 So let's start with the summary:
 
-
-**_Core behaviors and measuring what matters leads to team and company success_** :boom:
+```
+We focus on two things so that teams and the company can succeed in the long term:
+Adopting core behaviours
+Measuring what matters
+```
 
 ---
 
-### Core Behaviors
+### Adopting Core Behaviors
 
 <img src=rsrcs/oogway.gif>
 
@@ -54,11 +55,11 @@ CFRs to encourage and guide the team
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
 
-### Leads to Team and Company Success
+### Long Term Success
 
 <img src=rsrcs/learning_zone.jpeg>
 
-We are trying to unlock the two powerful dimensions of team (and company) success:
+Our two core tenants are trying to unlock the two powerful dimensions of team (and company) success:
   * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
   * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
   
