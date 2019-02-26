@@ -33,6 +33,8 @@ Behavior  | Oogway Says:
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no "killing it"
 [Learn From Others](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#learn-from-others) | Free your mind
 
+Read more [details](behavior_details.md) and some [anti-patterns](antipattern.md).
+
 ### Measuring what matters
 
 <img src=rsrcs/shipmypants.gif>
@@ -98,5 +100,6 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 
 * Our [Hiring](hiring.md) Process
 * Effective [1x1s](1x1.md)
+* Core Behavior [Details](behavior_details.md)
 * Behavior [Antipatterns](antipattern.md)
 * Our [Reading](reading_club.md) Club
