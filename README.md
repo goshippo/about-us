@@ -23,7 +23,7 @@ So let's start with the summary:
 
 <img src=rsrcs/oogway.gif>
 
-Guidelines on how one should think and behave
+These individual behaviors will make our team stronger
 
 Behavior  | Oogway Says:
 --------- | -----------
