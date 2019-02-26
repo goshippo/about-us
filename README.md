@@ -10,7 +10,7 @@ _Shippo empowers retailers, e-commerce platforms, marketplaces, logistics provid
 
 Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
-It's important we have a common language so we know what we're talking about.
+First we need to define a common language so we all know what we're talking about.
 
 So let's start with the summary:
 
