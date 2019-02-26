@@ -36,7 +36,7 @@
 * Being successful is a healthy intersection of work and life
      
 ### Learn From Others
-`Do or do not, there's no try` - seek knowledge from all over and we can easily level :arrow_up:
+`Free your mind` - seek knowledge from all over and we can easily level :arrow_up:
 
 * Seek guidance from others (inside or outside work), don't have the "invented here" mentality
 * Don't pick a path only because its easy or comfortable
