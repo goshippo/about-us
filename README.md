@@ -29,8 +29,8 @@ Behavior  | Oogway Says:
 [Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#care-about) | Give a Ship
 [Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#unearth-value) | Failure leads to success
 [Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#confer-not-defer) | Question the HiPPO
-[Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no killing it
-[Seek Excellence through Learning](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#seek-excellence-through-learning) | do or do not, there's no try
+[Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no "killing it"
+[Seek Excellence through Learning](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#seek-excellence-through-learning) | Do or do not, there's no try
 
 
 ### Measured by what matters
