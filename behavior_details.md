@@ -19,7 +19,7 @@
 
 ### Confer not defer
 `Question the HiPPO` - Your opinions matter and its important to voice them and have meaningful discussions    
-[HiPPO](https://www.bbc.com/news/business-39633499) - highest paid(status) person's opinion
+[HiPPO](https://www.bbc.com/news/business-39633499) (highest paid/status person's opinion)
 
 * Ideas are selected based on merit not the size of your title or the length of your tenure
 * Understand how your work will/can impact others
