@@ -19,12 +19,13 @@
 
 ### Confer not defer
 `Question the HiPPO` - Your opinions matter and its important to voice them and have meaningful discussions    
-[HiPPO](https://www.bbc.com/news/business-39633499) - highest paid(status) person's opinion
 
 * Ideas are selected based on merit not the size of your title or the length of your tenure
 * Understand how your work will/can impact others
 * Its ok to disagree, the key is everyone is heard and then we commit to one direction.
 * Pyschological safety is built around your ability to express your opinions without fear, so if you don't say it, how will anyone know?
+
+[HiPPO](https://www.bbc.com/news/business-39633499) == highest paid/status person's opinion
 
 ### Be Authentic
 `There's no "killing it"` - we are more than our work, we are human and we're fallible
@@ -34,11 +35,11 @@
 * There's no "killing it"; startups are built on trial and error and solving problems.. forever
 * Being successful is a healthy intersection of work and life
      
-### Seek excellence through learning
-`Learn or don't learn, there's no try` - continuous improvement is how we level :arrow_up:
+### Learn From Others
+`Free your mind` - seek knowledge from all over and we can easily level :arrow_up:
 
+* Seek guidance from others (inside or outside work), don't have the "invented here" mentality
 * Don't pick a path only because its easy or comfortable
 * There are multiple ways to do something, explore them    
-* Seek guidance from others (inside or outside work), don't have the "invented here" mentality
 * Give yourself the time and freedom to try new things
 * Figure out how to apply things you've read to your day to day

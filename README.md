@@ -1,4 +1,4 @@
-## (WORK IN PROGRESS)
+## THOUGHT IN PROGRESS - Requires Team Collaboration
 
 ## Shippo's Mission
 
@@ -6,34 +6,34 @@
 
 `Shippo empowers retailers, e-commerce platforms, marketplaces, logistics providers, and more with the building blocks they need to succeed with shipping.`
 
-## Our Team Culture
+## Our Culture
 
 Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
 First we need to define a common language so we all know what we're talking about.
 
-So let's start with the summary: _Team success, through core behaviors, measured by what matters_ :boom:
+So let's start with the summary:
 
-### Team Success
 
-<img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
+**_Core behaviors and measuring what matters leads to team and company success_** :boom:
 
-The two powerful dimensions of team success is [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) and Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).  Getting to the "learning zone" and applying what you learned to your day to day is what we strive for here.
+---
 
 ### Core Behaviors
 
 <img src=rsrcs/oogway.gif>
 
+These individual behaviors will make our team stronger
+
 Behavior  | Oogway Says:
 --------- | -----------
 [Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#care-about) | Give a Ship
 [Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#unearth-value) | Failure leads to success
-[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#confer-not-defer) | Question the HiPPO
+[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#confer-not-defer) | Question the [HiPPO](https://www.bbc.com/news/business-39633499)
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no "killing it"
-[Seek Excellence through Learning](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#seek-excellence-through-learning) | Learn or don't learn, there's no try
+[Learn From Others](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#learn-from-others) | Free your mind
 
-
-### Measured by what matters
+### Measuring what matters
 
 Intel's actual OKRs referenced in "Measure What Matters"
 
@@ -50,6 +50,16 @@ Use CFRs to establish a learning culture
 - Continuous - Constant coaching and mentoring
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
+
+### Leads to Team and Company Success
+
+<img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
+
+We are trying to unlock the two powerful dimensions of team success:
+  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
+  
+Using our core behaviors everyday and measuring our progress and giving us purpose helps us reach the "learning zone".
 
 ## Putting it in practice
 
