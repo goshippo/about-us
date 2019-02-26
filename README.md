@@ -14,7 +14,8 @@ First we need to define a common language so we all know what we're talking abou
 
 So let's start with the summary:
 
-__Team success, through core behaviors, measured by what matters__ :boom:
+>Team success, through core behaviors, measured by what matters :boom:
+---
 
 ### Team Success
 
