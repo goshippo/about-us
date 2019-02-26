@@ -19,12 +19,13 @@
 
 ### Confer not defer
 `Question the HiPPO` - Your opinions matter and its important to voice them and have meaningful discussions    
-[HiPPO](https://www.bbc.com/news/business-39633499) (highest paid/status person's opinion)
 
 * Ideas are selected based on merit not the size of your title or the length of your tenure
 * Understand how your work will/can impact others
 * Its ok to disagree, the key is everyone is heard and then we commit to one direction.
 * Pyschological safety is built around your ability to express your opinions without fear, so if you don't say it, how will anyone know?
+
+[HiPPO](https://www.bbc.com/news/business-39633499) == highest paid/status person's opinion
 
 ### Be Authentic
 `There's no "killing it"` - we are more than our work, we are human and we're fallible
