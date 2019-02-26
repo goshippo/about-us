@@ -14,11 +14,8 @@ First we need to define a common language so we all know what we're talking abou
 
 So let's start with the summary:
 
-```
-We focus on two things so that our teams and the company has long term success:
-Adopting core behaviours
-Measuring what matters
-```
+>We focus on two things so that our teams and company has long term success:<br/>__Adopting core behaviours__
+<br/>__Measuring what matters__
 
 ---
 
