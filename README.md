@@ -35,7 +35,7 @@ Behavior  | Oogway Says:
 [Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#unearth-value) | Failure leads to success
 [Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#confer-not-defer) | Question the [HiPPO](https://www.bbc.com/news/business-39633499)
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no "killing it"
-[Level Up](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#level-up) | Learn or don't learn, there's no try
+[Level Up](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#level-up) | Do or do not, there's no try
 
 
 ### Measured by what matters
