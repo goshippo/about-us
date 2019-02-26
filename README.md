@@ -1,4 +1,4 @@
-## THOUGHT IN PROGRESS - Requires Team Collabration still
+## THOUGHT IN PROGRESS - Requires Team Collabration
 
 ## Shippo's Mission
 
