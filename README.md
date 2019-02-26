@@ -8,7 +8,10 @@
 
 ## Our Culture
 
-Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
+Defined as 
+>The system in which the team executes, makes decisions and behaves as a collective group 
+
+(sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
 So let's start with the summary:
 
