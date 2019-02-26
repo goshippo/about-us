@@ -13,7 +13,7 @@ Defined as `The system in which the team executes, makes decisions and behaves a
 So let's start with the summary:
 
 ```
-We focus on two things so that teams and the company can succeed in the long term:
+We focus on two things so that our teams and the company has long term success:
 Adopting core behaviours
 Measuring what matters
 ```
