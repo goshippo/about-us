@@ -6,7 +6,7 @@
 
 `Shippo empowers retailers, e-commerce platforms, marketplaces, logistics providers, and more with the building blocks they need to succeed with shipping.`
 
-## Our Team Culture
+## Our Culture
 
 Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
@@ -15,7 +15,7 @@ First we need to define a common language so we all know what we're talking abou
 So let's start with the summary:
 
 
-**_Core behaviors and measuring what matters leads to team success_** :boom:
+**_Core behaviors and measuring what matters leads to team and company success_** :boom:
 
 ---
 
@@ -51,7 +51,7 @@ Use CFRs to establish a learning culture
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
 
-### Leads to Team Success
+### Leads to Team and Company Success
 
 <img src=https://trello-attachments.s3.amazonaws.com/5c682520f6d8a07482e12970/1078x765/d21d65a8818d6d392c3e27e69fd699e3/image.jpeg.jpg width=50% height=50%>
 
