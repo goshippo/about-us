@@ -34,7 +34,7 @@
 * There's no "killing it"; startups are built on trial and error and solving problems.. forever
 * Being successful is a healthy intersection of work and life
      
-### Seek excellence through learning
+### Be Excellent, Seek Learning
 `Learn or don't learn, there's no try` - continuous improvement is how we level :arrow_up:
 
 * Don't pick a path only because its easy or comfortable
