@@ -18,7 +18,7 @@
 * Practice on small bug fixes first before graduating to large features or projects
 
 ### Confer not defer
-"question the hippo" - Your opinions matter and its important to voice them and have meaningful discussions
+"Question the [HiPPO](https://www.bbc.com/news/business-39633499)" - Your opinions matter and its important to voice them and have meaningful discussions
 
 * Ideas are selected based on merit not the size of your title or the length of your tenure
 * Understand how your work will/can impact others
