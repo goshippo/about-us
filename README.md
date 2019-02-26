@@ -8,10 +8,9 @@ _Shippo empowers retailers, e-commerce platforms, marketplaces, logistics provid
 
 ## Our Culture
 
-Defined as 
->The system in which the team executes, makes decisions and behaves as a collective group 
+Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
-(sorry it's not about our free lunches, great benefits and awesome office :wink:)
+It's important we have a common language so we know what we're talking about.
 
 So let's start with the summary:
 
