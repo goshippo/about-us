@@ -12,7 +12,9 @@ Defined as `The system in which the team executes, makes decisions and behaves a
 
 First we need to define a common language so we all know what we're talking about.
 
-So let's start with the summary: _Team success, through core behaviors, measured by what matters_ :boom:
+So let's start with the summary:
+
+__Team success, through core behaviors, measured by what matters__ :boom:
 
 ### Team Success
 
