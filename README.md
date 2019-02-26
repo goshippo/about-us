@@ -37,14 +37,17 @@ Behavior  | Oogway Says:
 
 <img src=rsrcs/shipmypants.gif>
 
-To ensure we're working on the right thing, we use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team to success.  Here's the 4 key parts:
+To ensure we're working on the right thing, we use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team.
+
+OKR's 4 Key Parts:
 
 - Focus - pick 2-3 objectives that really matter
 - Align - make sure every person and team across the company are aligned
 - Track - see if the results are bearing fruit, change course as needed
 - Stretch - aim high and stretch your goal and your mind to accomplish great things
 
-Use CFRs to establish a learning culture
+CFRs to encourage and guide the team
+
 - Continuous - Constant coaching and mentoring
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
