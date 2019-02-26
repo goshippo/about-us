@@ -33,7 +33,7 @@ Behavior  | Oogway Says:
 --------- | -----------
 [Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#care-about) | Give a Ship
 [Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#unearth-value) | Failure leads to success
-[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#confer-not-defer) | Question the HiPPO
+[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#confer-not-defer) | Question the [HiPPO](https://www.bbc.com/news/business-39633499)
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-authentic) | There's no "killing it"
 [Be Excellent, Seek Learning](https://github.com/batmany13/shippo-about-us/blob/master/behavior_details.md#be-excellent-seek-learning) | Learn or don't learn, there's no try
 
