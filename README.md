@@ -6,6 +6,14 @@
 
 _Shippo empowers retailers, e-commerce platforms, marketplaces, logistics providers, and more with the building blocks they need to succeed with shipping._
 
+## Our Values
+
+* Customer First
+* The Front Page Test
+* Be Entrepreneurial
+* Be Kind
+* We haven't won yet
+
 ## Our Culture
 
 Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
