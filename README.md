@@ -35,7 +35,7 @@ These individual behaviors will make our team stronger
 
 Behavior  | Oogway Says: | Re-enforces Core Value:
 --------- | ----------- | ------------
-[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Give a Ship | Customer First, Front Page Test
+[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Give a Ship | Customer First, The Front Page Test
 [Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior/value.md) | Failure leads to success | Customer First, Be Entrepreneurial, We haven't won yet
 [Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Question the [HiPPO](https://www.bbc.com/news/business-39633499) | Be Entrepreneurial, We haven't won yet
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior/authentic.md) | There's no "killing it" | Be Kind, The Front Page Test
