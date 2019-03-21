@@ -1,8 +1,8 @@
+<img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=30% height=30%>
+
 ## THOUGHT IN PROGRESS - Requires Team Collaboration
 
 ## Welcome to Shippo's About Us
-
-<img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=30% height=30%>
 
 ### Our Vision
 
