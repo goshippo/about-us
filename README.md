@@ -20,12 +20,21 @@ Defined as `The system in which the team executes, makes decisions and behaves a
 
 First we need to define a common language so we all know what we're talking about.
 
-So let's start with the summary:
 
->We focus on two things so that our teams and company has long term success:<br/>__Adopting core behaviours__
-<br/>__Measuring what matters__
+>To build long term team and company success.
+Be in the learning zone and exemplify our core values by __Adopting core behaviours__ and __Measuring what matters__ 
 
 ---
+
+### The Learning Zone
+
+<img src=rsrcs/learning_zone.jpeg>
+
+Our two core tenants are trying to unlock the two powerful dimensions of team (and company) success:
+  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
+  
+Adopting core behaviors and measuring what matters helps us reach the "learning zone".
 
 ### Adopting Core Behaviors
 
@@ -62,16 +71,6 @@ CFRs to encourage and guide the team
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
 
-### Long Term Success
-
-<img src=rsrcs/learning_zone.jpeg>
-
-Our two core tenants are trying to unlock the two powerful dimensions of team (and company) success:
-  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
-  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
-  
-Adopting core behaviors and measuring what matters helps us reach the "learning zone".
-
 ## Putting it in practice
 
 <img src=rsrcs/keep_calm.jpeg><br/>
@@ -84,7 +83,7 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 - [1x1s](1x1.md) focused on you.
 - A week dedicated a quarter for [hackathons](hackathon.md)
 - We expect work/life balance.  You should have your weekends and vacation to recharge.  When we have company holidays, we take them off.
-- On-call that's reasonable; when you're on-call, you're on call, when you're not, you're not.
+- On-call that's reasonable; we currently do deploys during work hours and you are rarely paged off hours.
 - Tech debt is paid at constant intervals and all projects accounts for this time.
 
 ### We really care about culture
