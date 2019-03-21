@@ -1,12 +1,18 @@
 ## THOUGHT IN PROGRESS - Requires Team Collaboration
 
-## Shippo's Mission
+## Welcome to Shippo's About Us
 
 <img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=30% height=30%>
 
-_Shippo empowers retailers, e-commerce platforms, marketplaces, logistics providers, and more with the building blocks they need to succeed with shipping._
+### Our Vision
 
-## Our Values
+To become the leading shipping platform for commerce worldwide.
+
+### Our Mission
+
+To help businesses succeed through shipping.
+
+### Our Values
 
 * Customer First
 * The Front Page Test
@@ -14,16 +20,17 @@ _Shippo empowers retailers, e-commerce platforms, marketplaces, logistics provid
 * Be Kind
 * We haven't won yet
 
+## Engineering's Mission
+
+`To engineer user-centric shipping experiences that grow the Shippo network. `
+
 ## Our Culture
 
 Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
 First we need to define a common language so we all know what we're talking about.
 
->To build long term company success:    
-Teams should be in the __learning zone__ and exemplify our core values by   
-__Adopting core behaviours__   
-__Measuring what matters__    
+To build `long term company success`, teams should be in the `learning zone` and exemplify our core values by `adopting core behaviours` and `measuring what matters`.
 
 ---
 
