@@ -20,9 +20,10 @@ Defined as `The system in which the team executes, makes decisions and behaves a
 
 First we need to define a common language so we all know what we're talking about.
 
-
->To build long term team and company success.
-Be in the learning zone and exemplify our core values by __Adopting core behaviours__ and __Measuring what matters__ 
+>To build long term company success:    
+Teams should be in the __learning zone__ and exemplify our core values by   
+__Adopting core behaviours__   
+__Measuring what matters__    
 
 ---
 
@@ -44,9 +45,9 @@ These individual behaviors will make our team stronger
 
 Behavior  | Oogway Says: | Re-enforces Core Value:
 --------- | ----------- | ------------
-[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Give a Ship | Customer First, Front Page Test
-[Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior/value.md) | Failure leads to success | Customer First, Be Entrepreneurial, We haven't won yet
-[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Question the [HiPPO](https://www.bbc.com/news/business-39633499) | Be Entrepreneurial, We haven't won yet
+[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Excel at your craft | Customer First, Front Page Test
+[Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior/value.md) | Iterate to success | Customer First, Be Entrepreneurial, We haven't won yet
+[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Your opinion matters | Be Entrepreneurial, We haven't won yet
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior/authentic.md) | There's no "killing it" | Be Kind, The Front Page Test
 [Learn From Others](https://github.com/batmany13/shippo-about-us/blob/master/behavior/learn.md) | Free your mind | Be Entrepreneurial, We haven't won yet
 
