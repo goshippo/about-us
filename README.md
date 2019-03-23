@@ -27,11 +27,12 @@ To help businesses succeed through shipping.
 
 ## Our Culture
 
-Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
+`The system in which the team executes, makes decisions and behaves as a collective group`
+(sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
-First we need to define a common language so we all know what we're talking about.
+First we need to define a common language so we all know what we're talking about:
 
-To build `long term company success`, teams should be in the `learning zone` and exemplify our core values by `adopting core behaviours` and `measuring what matters`.
+>To achieve __long term company success__, teams should be in the __learning zone__ and exemplify our core values by __adopting core behaviours__ and making decisions by __measuring what matters__.
 
 ---
 
