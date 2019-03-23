@@ -14,11 +14,12 @@ To help businesses succeed through shipping.
 
 ### Our Values
 
-* Customer First
-* The Front Page Test
-* Be Entrepreneurial
-* Be Kind
-* We haven't won yet
+* Customer First - We put our customers first in everything we do. We will succeed if we deliver value and high quality products to our customers. We walk the extra mile to delight our customers with excellence and expertise.
+* The Front Page Test - We act with moral integrity and assume the best of each other. We trust each other to do the right thing.
+* Be Entrepreneurial -We depend on each other’s work to be successful as a whole. We are proactive and resourceful, taking ownership and seeking to empower others.
+* Be Kind - We act from compassion — for our customers, the company, and each other. We show everyone we interact with respect, empathy, and kindness.
+* We haven't won yet - If we wanted “easy” we wouldn’t be here. We set high goals, push the boundaries, and pursue our goals relentlessly.
+
 
 ## Engineering's Mission
 
