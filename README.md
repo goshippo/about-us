@@ -1,12 +1,18 @@
-## THOUGHT IN PROGRESS - Requires Team Collaboration
-
-## Shippo's Mission
-
 <img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=30% height=30%>
 
-_Shippo empowers retailers, e-commerce platforms, marketplaces, logistics providers, and more with the building blocks they need to succeed with shipping._
+## THOUGHT IN PROGRESS - Requires Team Collaboration
 
-## Our Values
+## Welcome to Shippo's About Us
+
+### Our Vision
+
+To become the leading shipping platform for commerce worldwide.
+
+### Our Mission
+
+To help businesses succeed through shipping.
+
+### Our Values
 
 * Customer First
 * The Front Page Test
@@ -14,18 +20,29 @@ _Shippo empowers retailers, e-commerce platforms, marketplaces, logistics provid
 * Be Kind
 * We haven't won yet
 
+## Engineering's Mission
+
+`To engineer user-centric shipping experiences that grow the Shippo network. `
+
 ## Our Culture
 
 Defined as `The system in which the team executes, makes decisions and behaves as a collective group` (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
 First we need to define a common language so we all know what we're talking about.
 
-So let's start with the summary:
-
->We focus on two things so that our teams and company has long term success:<br/>__Adopting core behaviours__
-<br/>__Measuring what matters__
+To build `long term company success`, teams should be in the `learning zone` and exemplify our core values by `adopting core behaviours` and `measuring what matters`.
 
 ---
+
+### The Learning Zone
+
+<img src=rsrcs/learning_zone.jpeg>
+
+Our two core tenants are trying to unlock the two powerful dimensions of team (and company) success:
+  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
+  
+Adopting core behaviors and measuring what matters helps us reach the "learning zone".
 
 ### Adopting Core Behaviors
 
@@ -35,9 +52,9 @@ These individual behaviors will make our team stronger
 
 Behavior  | Oogway Says: | Re-enforces Core Value:
 --------- | ----------- | ------------
-[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Give a Ship | Customer First, The Front Page Test
-[Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior/value.md) | Failure leads to success | Customer First, Be Entrepreneurial, We haven't won yet
-[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Question the [HiPPO](https://www.bbc.com/news/business-39633499) | Be Entrepreneurial, We haven't won yet
+[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Excel at your craft | Customer First, Front Page Test
+[Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior/value.md) | Iterate to success | Customer First, Be Entrepreneurial, We haven't won yet
+[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Your opinion matters | Be Entrepreneurial, We haven't won yet
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior/authentic.md) | There's no "killing it" | Be Kind, The Front Page Test
 [Learn From Others](https://github.com/batmany13/shippo-about-us/blob/master/behavior/learn.md) | Free your mind | Be Entrepreneurial, We haven't won yet
 
@@ -62,16 +79,6 @@ CFRs to encourage and guide the team
 - Feedback - Give specific and timely feedback
 - Recognition - celebrate the wins and the learnings
 
-### Long Term Success
-
-<img src=rsrcs/learning_zone.jpeg>
-
-Our two core tenants are trying to unlock the two powerful dimensions of team (and company) success:
-  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
-  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
-  
-Adopting core behaviors and measuring what matters helps us reach the "learning zone".
-
 ## Putting it in practice
 
 <img src=rsrcs/keep_calm.jpeg><br/>
@@ -84,7 +91,7 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 - [1x1s](1x1.md) focused on you.
 - A week dedicated a quarter for [hackathons](hackathon.md)
 - We expect work/life balance.  You should have your weekends and vacation to recharge.  When we have company holidays, we take them off.
-- On-call that's reasonable; when you're on-call, you're on call, when you're not, you're not.
+- On-call that's reasonable; we currently do deploys during work hours and you are rarely paged off hours.
 - Tech debt is paid at constant intervals and all projects accounts for this time.
 
 ### We really care about culture
