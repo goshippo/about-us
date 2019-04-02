@@ -4,12 +4,12 @@ This is an experimentation, but we want to make it easy for Shippos to mentor ea
 
 ## Bam/Sam
 
-The format is YAML, it is a human and machine readable.  It is broken up into 3 parts and here's a walkthrough of the full example of this [file](batmany13.yml)
+The format is YAML, it is a human and machine readable.  It is broken up into 3 parts and here's a walkthrough of the full example of this [file](batmany13.yml).
 
 
 ### About
 
-This part is to cover basic things like your name (duh!), hobbies, as in, we are humans first, and its ok to have interests outside of work (be authentic) and can be a way for people to bond.  Finally, favorite resources are just a simple way to share key books/blogs/tools that you used for your own growth
+This part is to cover basic things like your name (duh!), hobbies, as in, we are humans first, and its ok to have interests outside of work ([be authentic](../behavior/authentic.md)) and can be a way for people to bond.  Finally, favorite resources are just a simple way to share key books/blogs/tools that you used for your own growth.
 
 ```
 about:
@@ -51,3 +51,4 @@ seek_a_mentor:
 
 ## Putting it in action
 
+Ok, so, how does this all work?  Well, we're still figuring it out, as its an experiment.  But, the idea is to find two people interested in mentoring _each other_.  So that's the trick, the idea is to pair two people up who can learn from each other.  Now, over long term, it might be hard to find a double match, but this process is to show that mentor/mentee can learn from each other.  Mentors will find that they can learn a lot from mentees, and mentees will find that they have something to offer and help be the mentor as well.  Really, we just want the process to be a two way thing, and encourage that model rather than some strict person A is the higher status "mentor" while person B is lower status "mentee".
