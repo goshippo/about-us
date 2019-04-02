@@ -4,8 +4,7 @@ This is an experimentation, but we want to make it easy for Shippos to mentor ea
 
 ## Bam/Sam
 
-The format is YAML, it is a human and machine readable.  It is broken up into 3 parts and here's a walkthrough of the full example of this [file](batmany13.yml).
-
+The format is YAML, it is a human and machine readable.  It is broken up into several parts and here's a walkthrough of the full example of this [file](batmany13.yml).
 
 ### About
 
@@ -14,6 +13,7 @@ This part is to cover basic things like your name (duh!), hobbies, as in, we are
 ```
 about:
   name: Bruce Wang
+  dept: engg
   hobbies:
     - "Discovering eating all kinds of diff foods"
     - "Traveling"

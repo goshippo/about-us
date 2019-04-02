@@ -1,9 +1,11 @@
 about:
-  name: Bruce Wang  
+  name: Bruce Wang
+  dept: engg
   hobbies:
-    - "Discovering eating all kinds of diff foods"
+    - "Eating all kinds of diff foods"
     - "Traveling"
     - "BBQing"
+    - "Hiking, biking, snowboarding, anything that lets me be outdoors"
   favorite_resources:
     - "Drive by Daniel Pink"
     - "Lean Startup"
