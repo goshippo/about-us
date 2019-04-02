@@ -6,7 +6,7 @@ The key to this is its a `knowledge sharing program` over a strict "mentor vs me
 
 ## Bam/Sam
 
-The format is YAML, it is a human and machine readable.  It is broken up into several parts and here's a walkthrough of a real [example](batmany13.yml).
+The format is YAML, it is a human and machine readable.  It is broken up into several parts and here's a walkthrough of a real [file](batmany13.yml).
 
 ### About
 
@@ -23,7 +23,8 @@ about:
     - "Hiking, biking, snowboarding, anything that lets me be outdoors"
   favorite_resources:
     - "Drive by Daniel Pink"
-    - "Lean Startup"
+    - "The Lean Startup by Eric Ries"
+    - "Measure What Matters by John Doerr"
     - "GitPrime Newsletter"
 ```
 
@@ -42,7 +43,7 @@ be_a_mentor:
 
 ### Seek A Mentor
 
-Here, pick 3-4 items that you are interested in learning more about.  Once again, seeking a mentor depends on your own level, but if this is something you don't feel confident on or is something that you know but is new (done 1-2 projects, worked with for less than a year), then you can probably seek a mentor on.  In reality, "seeking a mentor" is probably easier to set.
+Here, pick 3-4 items that you are interested in learning more about.  Once again, seeking a mentor depends on your own level, but if this is something you don't feel confident in or is something that you know but is new to (done 1 project, worked with for less than a year, haven't put in production), then you can probably seek a mentor for it.  In reality, "seeking a mentor" is probably easier to write because everyone thinks they can [learn from others](../behavior/learn.md).
 
 ```
 # list 3-4 items you'd want to learn more about
