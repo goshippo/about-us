@@ -1,16 +1,16 @@
-# Shippo's Mentoring Program
+# Shippo's Mentoring Program (WIP)
 
-This is an experimentation, but we want to make it easy for Shippos to mentor each other on any topics that might be interesting.  To facilitate this, we've created a simple "template" to track interests between people.  This is dubbed a "bam/sam" or a "be a mentor / seek a mentor" file.
+We want to make it easy for Shippos to mentor each other on any topics that might be interesting.  To facilitate this, we've created a simple template to track interests between people.  This is dubbed a "bam/sam" or a "be a mentor / seek a mentor" file.
 
 The key to this is its a `knowledge sharing program` over a strict "mentor vs mentee" program.  Hence, we want to pair two people who can learn from __each other__.
 
 ## Bam/Sam
 
-The format is YAML, it is a human and machine readable.  It is broken up into several parts and here's a walkthrough of the full example of this [file](batmany13.yml).
+The format is YAML, it is a human and machine readable.  It is broken up into several parts and here's a walkthrough of a real [example](batmany13.yml).
 
 ### About
 
-This part is to cover basic things like your name (duh!), hobbies, as in, we are humans first, and its ok to have interests outside of work ([be authentic](../behavior/authentic.md)) and can be a way for people to bond.  Finally, favorite resources are just a simple way to share key books/blogs/tools that you used for your own growth.
+This part is to cover basic things like your name (duh!), the person's department, hobbies, as in, we are humans first, and its ok to have interests outside of work ([be authentic](../behavior/authentic.md)).  Finally, favorite resources are just a simple way to share key books/blogs/tools that you used for your own growth.
 
 ```
 about:
