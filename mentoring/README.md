@@ -6,7 +6,7 @@ The key to this is its a `knowledge sharing program` over a strict "mentor vs me
 
 ## Bam/Sam
 
-The format is YAML, it is a human and machine readable.  It is broken up into several parts and here's a walkthrough of a real [file](batmany13.yml).
+The format is [YAML](https://en.wikipedia.org/wiki/YAML), it is both human and machine readable.  It is broken up into several parts and here's a walkthrough of a real [file](batmany13.yml).
 
 ### About
 
