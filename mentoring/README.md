@@ -19,7 +19,8 @@ about:
   hobbies:
     - "Eating all kinds of diff foods"
     - "Traveling"
-    - "BBQing"
+    - "BBQing and cooking"
+    - "Hiking, biking, snowboarding, anything that lets me be outdoors"
   favorite_resources:
     - "Drive by Daniel Pink"
     - "Lean Startup"
