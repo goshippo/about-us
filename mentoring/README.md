@@ -10,7 +10,7 @@ The format is [YAML](https://en.wikipedia.org/wiki/YAML), it is both human and m
 
 ### About
 
-This part is to cover basic things like your name (duh!), the person's department, hobbies, as in, we are humans first, and its ok to have interests outside of work ([be authentic](../behavior/authentic.md)).  Finally, favorite resources are just a simple way to share key books/blogs/tools that you used for your own growth.
+This part is to cover basic things like your name (duh!), and the person's department, since we want to encourage cross department/manager mentorship.  Hobbies, as in, we are humans first, and its ok to have interests outside of work ([be authentic](../behavior/authentic.md)).  Finally, favorite resources are just a list of fav books/blogs/tools that you've used for your own growth.
 
 ```
 about:
