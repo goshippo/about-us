@@ -58,15 +58,14 @@ Here are some easy steps to get started
 * Fill out your bam/sam.  Submit it via slack to @bruce or @batman
 * Look through the bam/sams and figure out who'd be a good pair match (@bruce or @batman will share with you the full list of participants)
 * Setup an intro meeting (30 mins)
- * 10 minutes : Person A, as the mentor will interview Person B and learn what they want to get out of the program, what they want to learn.  It is important the mentor LISTENS to this
- * 10 minutes: Switch sides, and now Person B will interview Person A to determine what Person A wants to get out of the program.  Once again LISTEN as the interviewer.
- * Person A will spend 5 mins to confirm back to Person B what they'd like to get out
- * Person B will spend 5 mins to confirm back to Person A what they'd like to get out
-* Take your time (up to a week) and think through what the both want to get out of this program.  This is your chance to do two things
+  * 10 minutes : Person A, as the mentor will interview Person B and learn what they want to get out of the program, what they want to learn.  It is important the mentor LISTENS to this
+  * 10 minutes: Switch sides, and now Person B will interview Person A to determine what Person A wants to get out of the program.  Once again LISTEN as the interviewer.
+  * Person A will spend 5 mins to confirm back to Person B what they'd like to get out
+  * Person B will spend 5 mins to confirm back to Person A what they'd like to get out
+* Take your time (up to a week) and think through what the both want to get out of this program.  This is your chance to do two things:
  * Determine if you'd be a fit as mentors to each other
- * Determine the best program to build for the mentee based on the conversation
- * Create a "lesson plan", sort of a list of things the mentee should do to get started
-* Share the lesson Plan (1 hour)
+ * Determine the best program to build for the mentee based on the conversation and create a "lesson plan"; a list of things the mentee should do to get started
+* Share the lesson Plan Meeting (1 hour)
  * 30 minutes : Person A will go over the lesson plan, and let Person B ask questions
  * 30 minutes : Person B will go over their lesson plan with Person A, and let Person A ask questions
 * Build a candence (at least once a month)
