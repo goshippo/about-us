@@ -2,6 +2,8 @@
 
 This is an experimentation, but we want to make it easy for Shippos to mentor each other on any topics that might be interesting.  To facilitate this, we've created a simple "template" to track interests between people.  This is dubbed a "bam/sam" or a "be a mentor / seek a mentor" file.
 
+The key to this is its a `knowledge sharing program` over a strict "mentor vs mentee" program.  Hence, we want to pair two people who can learn from __each other__.
+
 ## Bam/Sam
 
 The format is YAML, it is a human and machine readable.  It is broken up into several parts and here's a walkthrough of the full example of this [file](batmany13.yml).
@@ -51,4 +53,24 @@ seek_a_mentor:
 
 ## Putting it in action
 
-Ok, so, how does this all work?  Well, we're still figuring it out, as its an experiment.  But, the idea is to find two people interested in mentoring _each other_.  So that's the trick, the idea is to pair two people up who can learn from each other.  Now, over long term, it might be hard to find a double match, but this process is to show that mentor/mentee can learn from each other.  Mentors will find that they can learn a lot from mentees, and mentees will find that they have something to offer and help be the mentor as well.  Really, we just want the process to be a two way thing, and encourage that model rather than some strict person A is the higher status "mentor" while person B is lower status "mentee".
+Here are some easy steps to get started
+
+* Fill out your bam/sam.  Submit it via slack to @bruce or @batman
+* Look through the bam/sams and figure out who'd be a good pair match (@bruce or @batman will share with you the full list of participants)
+* Setup an intro meeting (30 mins)
+ * 10 minutes : Person A, as the mentor will interview Person B and learn what they want to get out of the program, what they want to learn.  It is important the mentor LISTENS to this
+ * 10 minutes: Switch sides, and now Person B will interview Person A to determine what Person A wants to get out of the program.  Once again LISTEN as the interviewer.
+ * Person A will spend 5 mins to confirm back to Person B what they'd like to get out
+ * Person B will spend 5 mins to confirm back to Person A what they'd like to get out
+* Take your time (up to a week) and think through what the both want to get out of this program.  This is your chance to do two things
+ * Determine if you'd be a fit as mentors to each other
+ * Determine the best program to build for the mentee based on the conversation
+ * Create a "lesson plan", sort of a list of things the mentee should do to get started
+* Share the lesson Plan (1 hour)
+ * 30 minutes : Person A will go over the lesson plan, and let Person B ask questions
+ * 30 minutes : Person B will go over their lesson plan with Person A, and let Person A ask questions
+* Build a candence (at least once a month)
+ * Based on the specific lesson plans, sync up with each other, and then check up on how things are going.
+ * Each are making a __commitment__ to each other that they will take the time to work on this skill and grow it.
+
+There is no obligation, and this is not a forced interaction.  If at anytime, one person feels like its not working out or it doesn't make sense, they can stop the program and there will be no hard feelings.
