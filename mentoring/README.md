@@ -50,7 +50,7 @@ Here, pick 3-4 items that you are interested in learning more about.  Once again
 seek_a_mentor:
   - "Frontend development with React and Redux"
   - "Managing and shipping docker containers at scale (I really don't want to just say Kube :))"
-  - "Golang development at scale (running 10+ interconnected services)"
+  - "Golang development at scale (running 5+ interconnected services)"
 ```
 
 ## Putting it in action
