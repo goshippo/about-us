@@ -43,7 +43,7 @@ be_a_mentor:
 
 ### Seek A Mentor
 
-Here, pick 3-4 items that you are interested in learning more about.  Once again, seeking a mentor depends on your own level, but if this is something you don't feel confident in or is something that you know but is new to (done 1 project, worked with for less than a year, haven't put in production), then you can probably seek a mentor for it.  In reality, "seeking a mentor" is probably easier to write because everyone thinks they can [learn from others](../behavior/learn.md).
+Here, pick 3-4 items that you are interested in learning more about.  Once again, seeking a mentor depends on your own level, but if this is something you don't feel confident in or is something that you know but want to grow (e.g. done 1 project or  worked with for less than a year or haven't put it in production), then you can probably seek a mentor for it.  In reality, "seeking a mentor" is probably easier to write because many of us think they can always [learn from others](../behavior/learn.md).
 
 ```
 # list 3-4 items you'd want to learn more about
@@ -55,7 +55,7 @@ seek_a_mentor:
 
 ## Putting it in action
 
-Here are some easy steps to get started
+Here's a simple formula for making the mentorship work.  Come up with your own (but be sure to share it here).
 
 * Fill out your bam/sam.  Submit it via slack to @bruce or @batman
 * Look through the bam/sams and figure out who'd be a good pair match (@bruce or @batman will share with you the full list of participants)
