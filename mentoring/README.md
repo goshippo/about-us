@@ -63,13 +63,13 @@ Here are some easy steps to get started
   * Person A will spend 5 mins to confirm back to Person B what they'd like to get out
   * Person B will spend 5 mins to confirm back to Person A what they'd like to get out
 * Take your time (up to a week) and think through what the both want to get out of this program.  This is your chance to do two things:
- * Determine if you'd be a fit as mentors to each other
- * Determine the best program to build for the mentee based on the conversation and create a "lesson plan"; a list of things the mentee should do to get started
+  * Determine if you'd be a fit as mentors to each other
+  * Determine the best program to build for the mentee based on the conversation and create a "lesson plan"; a list of things the mentee should do to get started
 * Share the lesson Plan Meeting (1 hour)
- * 30 minutes : Person A will go over the lesson plan, and let Person B ask questions
- * 30 minutes : Person B will go over their lesson plan with Person A, and let Person A ask questions
+  * 30 minutes : Person A will go over the lesson plan, and let Person B ask questions
+  * 30 minutes : Person B will go over their lesson plan with Person A, and let Person A ask questions
 * Build a candence (at least once a month)
- * Based on the specific lesson plans, sync up with each other, and then check up on how things are going.
- * Each are making a __commitment__ to each other that they will take the time to work on this skill and grow it.
+  * Based on the specific lesson plans, sync up with each other, and then check up on how things are going.
+  * Each are making a __commitment__ to each other that they will take the time to work on this skill and grow it.
 
 There is no obligation, and this is not a forced interaction.  If at anytime, one person feels like its not working out or it doesn't make sense, they can stop the program and there will be no hard feelings.
