@@ -44,6 +44,4 @@ Here's a full [flow](rsrcs/hiring_tree.png) diagram in case you're curious, and 
 
 ## Join us!
 
-Review our [job](ttps://goshippo.com/jobs/) posts and apply!
-
 <img src=rsrcs/shippo_hello.gif>
