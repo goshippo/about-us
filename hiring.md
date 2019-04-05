@@ -35,6 +35,8 @@ We understand that on-site technical interviews can be stressful but we're looki
 * situational technical problem
 * situational behavioral problem
 
+Here's a full [flow](rsrcs/hiring_tree.png) diagram in case you're curious, and is not completely accurate as we do adjust based on the your skills.
+
 ## Join us!
 
 Review our [job](ttps://goshippo.com/jobs/) posts and apply!
