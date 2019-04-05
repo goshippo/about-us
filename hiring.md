@@ -12,6 +12,7 @@ We have a pretty straight forward process.  We aim to make it speedy, painless (
 
 Here's a general outline of the process:
 
+* You've applied [here](https://goshippo.com/jobs/)!
 * Manager/Recruiter Phone Screen (30-45 mins)
   * Chatting about experience, goals and general communications assessment.
 * Technical Phone Screen (60 mins)
