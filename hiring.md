@@ -8,24 +8,26 @@ At Shippo we look at 3 dimensions for a software engineering candidate
 
 ### General Flow
 
-We have a pretty straight forward process.  We aim to make it speedy, painless (as possible) while still making sure you and Shippo vet each other appropriately.  Here's a general outline of the process, which is adapted for each candidate that comes in and interviewers will be paired up approripately.
+We have a pretty straight forward process.  We aim to make it speedy, painless (as possible) while still making sure you and Shippo vet each other appropriately.  We will also adapt the process based on your skills, so we will try to tailor some questions more towards your skillset.
+
+Here's a general outline of the process:
 
 * Manager/Recruiter Phone Screen (30-45 mins)
   * Chatting about experience, goals and general communications assessment.
 * Technical Phone Screen (60 mins)
-  * Screening of candidate based on technical ability.  This will also be used to determine who should be paired up with the candidate for an onsite.
+  * Screening of candidate based on technical ability.  This will also be used to determine who should be paired up with you during your onsite.
 * Onsite (3-4 hours)
-  * Tech Interview 1 - Coding & Code Review    
-  * Tech Interview 2 - System Design    
-  * Tech Interview 3 - Software Design & Architecture    
+  * Tech Interview 1 - Coding & Code Review.  Coding question focused around general coding and simple algorithm.
+  * Tech Interview 2 - System Design.  Coding question focused around interacting with APIs and a database.
+  * Tech Interview 3 - Software Design & Architecture.  Coding question focused around design of classes, data model etc.
   * Founder Chat - Discuss background on Shippo, core values/behavior fit
   * Manager Wrap-up & Feedback - We want to gather feedback about how the interview went, and give us feedback about the process (what went well, what could be improved).  We'll also provide you any feedback.  We also like to know what you are looking for in the job
 * Internal Recap
 * Decision
 
-_This whole process can happen pretty quickly, depending on your availability, so overall time frame may be only 1-2 weeks total._
+This whole process can happen pretty quickly, depending on your availability, so overall time frame may be only __1-2 weeks__ from application to decision.
 
-For Shippos, here is our detailed internal [Wiki](https://shippo.atlassian.net/wiki/spaces/SW/pages/46530584/Engineering+Recruiting+Process)
+For Shippos, here is our detailed internal [Wiki](https://shippo.atlassian.net/wiki/spaces/SW/pages/46530584/Engineering+Recruiting+Process).
 
 ### Helpful Notes
 
