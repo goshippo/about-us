@@ -29,11 +29,11 @@ For Shippos, here is our detailed internal [Wiki](https://shippo.atlassian.net/w
 
 ### Helpful Notes
 
-During the technical screens, we're looking for a few things
+We understand that on-site technical interviews can be stressful but we're looking for some specific things while conducting the interviews and sometimes, there's not a "single right answer".
 
-technical problem solving
-situational technical problem
-situational behavioral problem
+* technical problem solving
+* situational technical problem
+* situational behavioral problem
 
 ## Join us!
 
