@@ -14,7 +14,7 @@ We have a pretty straight forward process.  We aim to make it speedy, painless (
 
 ### Helpful Notes
 
-All of our job openings are listed [here](https://goshippo.com/jobs/).  Look at this often, as we're growing and have some high targets for this year's OKRs)
+All of our job openings are listed [here](https://goshippo.com/jobs/).  Look at this often, as we're growing fast and have some high targets for this year's OKRs.
 
 While we can't reveal the exact questions we'll ask during the on-site technical interviews, here are some general guidelines
 
@@ -27,7 +27,7 @@ __Manager Wrap-up & Feedback__ - We want to gather feedback about how the interv
 
 
 
-For Shippos, here is our detailed [Wiki](https://shippo.atlassian.net/wiki/spaces/SW/pages/46530584/Engineering+Recruiting+Process)
+For Shippos, here is our detailed internal [Wiki](https://shippo.atlassian.net/wiki/spaces/SW/pages/46530584/Engineering+Recruiting+Process)
 
 ## Join us!
 
