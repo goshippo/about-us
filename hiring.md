@@ -18,9 +18,9 @@ Here's a general outline of the process:
 * Technical Phone Screen (60 mins)
   * Screening of candidate based on technical ability.  This will also be used to determine who should be paired up with you during your onsite.
 * Onsite (3-4 hours)
-  * Tech Interview 1 - Coding & Code Review.  Whiteboard Coding question focused around general coding and simple algorithm.  Preferrably real code.
-  * Tech Interview 2 - System Design.  Whiteboard Coding question focused around interacting with APIs and a database.  Psuedo code and perhaps SQL.
-  * Tech Interview 3 - Software Design & Architecture.  Whiteboard software design focused around classes, data model and architectures.
+  * Tech Interview 1, Coding & Code Review - Whiteboard Coding question focused around general coding and simple algorithm.  Preferrably real code.
+  * Tech Interview 2, System Design - Whiteboard Coding question focused around interacting with APIs and a database.  Psuedo code and perhaps SQL.
+  * Tech Interview 3, Software Design & Architecture - Whiteboard software design focused around classes, data model and architectures.
   * Founder Chat - Discuss background on Shippo, core values/behavior fit
   * Manager Wrap-up & Feedback - We want to gather feedback about how the interview went, and give us feedback about the process (what went well, what could be improved).  We'll also provide you any feedback.  We also like to know what you are looking for in the job
 * Internal Recap
