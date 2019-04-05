@@ -2,9 +2,9 @@
 
 At Shippo we look at 3 dimensions for a software engineering candidate
 
-* Core values and behaviors fit
-* Technical Ability
-* Diversity of Thought
+* __Core values and [behaviors](README.md) fit__ - do you approach software engineering with the same mindset as we do, do you share similar values about customers and work?
+* __Technical Ability__ - can you problem solve and build code that would work in production
+* __Diversity of Thought__ - how do you approach problems, how has your past experiences shaped your thinking
 
 ### General Flow
 
@@ -32,11 +32,13 @@ For Shippos, here is our detailed internal [Wiki](https://shippo.atlassian.net/w
 
 ### Helpful Notes
 
-We understand that on-site technical interviews can be stressful but we're looking for some specific things while conducting the interviews and sometimes, there's not a "single right answer".
+We understand that on-site technical interviews can be stressful but we're looking for some specific things while conducting our interviews, they are:
 
 * technical problem solving
 * situational technical problem
 * situational behavioral problem
+
+Also, take a breath and relax, we're not trying to trick you or give you ridiculous puzzle or math problems :).
 
 Here's a full [flow](rsrcs/hiring_tree.png) diagram in case you're curious, and is not completely accurate as we do adjust based on the your skills.
 
