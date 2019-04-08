@@ -1,4 +1,4 @@
-## Growing at Shippo
+## Growing at Shippo (WIP)
 
 This doc describes how we grow in responsibilities at Shippo.  Its really a guideline of how you'd advance your skills.  This is also tied to advancement at Shippo and growing your role.  While titles somewhat matter, its really your desires, skills and responsibilities that determine your place at the company.
 
@@ -10,16 +10,11 @@ This doc describes how we grow in responsibilities at Shippo.  Its really a guid
   - How well do you execute on your OKRs
   - Is your team successful?  Or just yourself?
 
-### Tiers
+### Levels
 
 In the end, we still need tiers to be fair, so here's rough sketch of our levels
 
-Tier | Software  | People
----- |--------- | ------
-1 | Software Engineer  | Project Manager
-2 | Senior Software Engineer | Eng Manager
-3 | Principal Engineer | Director of Engineering
-4 | Distinguished Engineer | VP of Engineering
+![Eng Levels](rsrcs/eng_levels.png)
 
 ### Compensation
 
@@ -28,7 +23,7 @@ The question might come up to "well how does this translate to salaries and rais
 * Employee performance
 * Business impact
 * Relative scarcity of skill
-* Market Conditions
+* Internal & External benchmarks
 
 ### Resources
 

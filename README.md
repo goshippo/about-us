@@ -27,12 +27,12 @@ To help businesses succeed through shipping.
 
 ## Our Culture
 
-`The system in which the team executes, makes decisions and behaves as a collective group`
+Defined as: `The system in which the team executes, makes decisions and behaves as a collective group`
 (sorry it's not about our free lunches, great benefits and awesome office :wink:)
 
 First we need to define a common language so we all know what we're talking about:
 
->To achieve __long term company success__, teams should be in the __learning zone__ and exemplify our core values by __adopting core behaviours__ and making decisions by __measuring what matters__.
+>To achieve __long term company success__, teams should be in the __learning zone__ and exemplify our core values by __adopting core behaviours__ and make decisions by __measuring what matters__.
 
 ---
 
@@ -40,11 +40,12 @@ First we need to define a common language so we all know what we're talking abou
 
 <img src=rsrcs/learning_zone.jpeg>
 
-Our two core tenants are trying to unlock the two powerful dimensions of team (and company) success:
+We believe that the two important elements to unlocking team (and company) success are:
   * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
-  * Intrinsic Motivations through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
+  * Intrinsic Motivations and accountability through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
   
 Adopting core behaviors and measuring what matters helps us reach the "learning zone".
+
 
 ### Adopting Core Behaviors
 
@@ -66,20 +67,13 @@ Read more [details](behavior/README.md) and some [anti-patterns](antipattern.md)
 
 <img src=rsrcs/shipmypants.gif>
 
-To ensure we're working on the right thing, we use OKRs (Objectives and Key Results) and CFRs (Continuous, Feedback, Recognition) to guide and super charge the team.
+We establish company wide OKRs and then spend each quarter working on building a bottoms up approach to defining team OKRs that will help move the needle.  The current 2019 OKRs are as follows:
 
-OKR's 4 Key Parts:
+1. Shippo is the leading shipping software
+2. Shippo is a premier employer
+3. Shippo grows faster than ever before
 
-- Focus - pick 2-3 objectives that really matter
-- Align - make sure every person and team across the company are aligned
-- Track - see if the results are bearing fruit, change course as needed
-- Stretch - aim high and stretch your goal and your mind to accomplish great things
-
-CFRs to encourage and guide the team
-
-- Continuous - Constant coaching and mentoring
-- Feedback - Give specific and timely feedback
-- Recognition - celebrate the wins and the learnings
+The second part is having CFRs (continuous, feedback, recognition), which is using [1x1s](1x1.md), our OKRs software and giving each other meaniful and timely [feedback](feedback.md) to help reach our goals.  When key results don't make sense anymore, we adjust them, and we're always looking to improve them.
 
 ## Putting it in practice
 
@@ -87,11 +81,12 @@ CFRs to encourage and guide the team
 
 Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  By making it part of our day to day activities like these:
 
-### Give you time and space
+### Supporting 
 
-- [Kanban](kanban.md) model to limit WIP so engineers have time to do their work right.
+- Tightly coupled product and engineering collaboration to ensure we're building the right things based on available resources and reasonable time estimates
+- Adopting [Kanban](kanban.md) to limit WIP so engineers have time to focus on quality and shipping incremental pieces to production
 - [1x1s](1x1.md) focused on you.
-- A week dedicated a quarter for [hackathons](hackathon.md)
+- [Hackathons](hackathon.md) to try new things and have fun doing it
 - We expect work/life balance.  You should have your weekends and vacation to recharge.  When we have company holidays, we take them off.
 - On-call that's reasonable; we currently do deploys during work hours and you are rarely paged off hours.
 - Tech debt is paid at constant intervals and all projects accounts for this time.
@@ -99,18 +94,20 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 ### We really care about culture
 
 - Interviews and hiring based on culture fit, ranking higher than technical ability
-- Performance reviews based on core behaviors and how you've grown
+- Performance reviews based on core values and behaviors and how you've grown
 - Your responsibilities [increase](growing.md) as you practice and embody these values.
 - [1x1s](1x1.md) are focused around you and how we can help you learn and grow and build up your behavioral muscles
 - We will talk about the concepts until you're :dizzy_face:, er.. I mean :heart:ing it :joy:
+- A week long New Hire Orientation to help you learn about Shippo
 
 ### Growth mindset
 
 - It starts at the top - from our founders to senior leadership to individual contributors, we have a growth mindset and are humble enough to know we don't know everything.
-- Feedback is ingrained - from 1x1s to 360 reviews to [Reboot circles](https://www.reboot.io/) to celebrating our wins and coaching and mentoring all the time.
+- Feedback is ingrained - from [1x1s](1x1.md) to 360 reviews to [Reboot circles](https://www.reboot.io/) to celebrating our wins and coaching and [mentoring](mentoring/) all the time.
 - We put our :money_with_wings: where our mouth is, we pay for you to learn and you have a yearly self improvement budget that we expect you to spend!
 - Company wide OKRs are communicated broadly and time is spent to get them right.  And if they aren't right, we throw them away.
 - Aspirational OKRs are evaluated by our ability to hit 70% of the targets, and we conduct post mortems to figure out how to improve it next time
+- Employee Resource Groups to help Shippos learn and grow
 - This repo itself is a living document that can change and morph as we grow
 
 ### Resources
