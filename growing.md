@@ -4,11 +4,12 @@ This doc describes how we grow in responsibilities at Shippo.  Its really a guid
 
 ### How we evaluate performance
 
-- How well are you accomplishing _Team success, through core behaviors, measured by what matters_
-  - How your opnions and ideas are implemented in meaniful ways
-  - How has your work impacted the business
-  - How well do you execute on your OKRs
-  - Is your team successful?  Or just yourself?
+- How are you performing relative to your level and expectations?
+- How are your opinions and ideas implemented in meaningful ways?
+- How has your work impacted the business?
+- How well do you execute on your OKRs?
+- Is your team successful?
+- How much do you embody our core values and behaviors?
 
 ### Levels
 
