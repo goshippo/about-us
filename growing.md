@@ -4,6 +4,8 @@ This doc describes how we grow in responsibilities at Shippo.  Its really a guid
 
 ### How we evaluate performance
 
+We do formal evaluations every quarter, with alternating topics of performance evaluations and career development discussions.  We also do continuous and timely feedback during 1x1s and after meetings or discussions.  The general items we'd look at are:
+
 - How are you performing relative to your level and expectations?
 - How are your opinions and ideas implemented in meaningful ways?
 - How has your work impacted the business?
@@ -16,6 +18,8 @@ This doc describes how we grow in responsibilities at Shippo.  Its really a guid
 In the end, we still need tiers to be fair, so here's rough sketch of our levels
 
 ![Eng Levels](rsrcs/eng_levels.png)
+
+Detailed descriptions are forth coming.
 
 ### Compensation
 
