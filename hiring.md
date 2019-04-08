@@ -13,16 +13,17 @@ We have a pretty straight forward process.  We aim to make it speedy, painless (
 Here's a general outline of the process:
 
 * You've applied [here](https://goshippo.com/jobs/)!
-* Manager/Recruiter Phone Screen (30-45 mins)
-  * Chatting about experience, goals and general communications assessment.
-* Technical Phone Screen (60 mins)
-  * Screening of candidate based on technical ability.  This will also be used to determine who should be paired up with you during your onsite.
+* Manager/Recruiter Phone Screen (15-30 mins)
+  * Chatting about experience, goals and general communications assessment. We are interested in what you are looking for in your next job.
+* Technical Phone Interview (15-45 mins)
+  * Screening of candidate based on technical ability. We will also gauge your interest in various teams at Shippo.
 * Onsite (3-4 hours)
-  * Tech Interview 1, Coding & Code Review - Whiteboard Coding question focused around general coding and simple algorithm.  Preferrably real code.
-  * Tech Interview 2, System Design - Whiteboard Coding question focused around interacting with APIs and a database.  Psuedo code and perhaps SQL.
-  * Tech Interview 3, Software Design & Architecture - Whiteboard software design focused around classes, data model and architectures.
+  * Each interview has 1 or 2 primary problem solving questions and 1 or 2 questions about your technical or teamwork experience.
+  * Tech Interview 1, Software Engineering - Whiteboard coding question focused using data structures and simple algorithm.  Preferably real code.
+  * Tech Interview 2, System Design - Whiteboard design question focused around systems interaction, scalability, and error handling.
+  * Tech Interview 3, Software Design - Whiteboard software design focused on encapsulation, and data-driven application design.
   * Founder Chat - Discuss background on Shippo, core values/behavior fit
-  * Manager Wrap-up & Feedback - We want to gather feedback about how the interview went, and give us feedback about the process (what went well, what could be improved).  We'll also provide you any feedback.  We also like to know what you are looking for in the job
+  * Manager Wrap-up & Feedback - We want to gather feedback about how the interview went and about the process (what went well, what could be improved).  We'll also provide you any feedback that we may have.
 * Internal Recap
 * Decision
 
@@ -32,11 +33,11 @@ For Shippos, here is our detailed internal [Wiki](https://shippo.atlassian.net/w
 
 ### Helpful Notes
 
-We understand that on-site technical interviews can be stressful but we're looking for some specific things while conducting our interviews, they are:
+We understand that on-site technical interviews can be stressful.  Here are some of our principles that might alleviate the stress:
 
-* technical problem solving
-* situational technical problem
-* situational behavioral problem
+* The problems that we ask are real life problems that we have solved in the past.  We made simpler versions of them to fit within the alloted time. The idea is to give you a sense of what day-to-day work is like at Shippo.
+* We are not looking to evaluate your answer against a gold standard. Instead, we are looking to get to know you, e.g. how you approach problems, and how you communicate solutions.
+* Be yourself! We are trying to get to know you, and we want you to get to know us. The more natural you are, the more we can gauge whether you'll love working at Shippo.
 
 Also, take a breath and relax, we're not trying to trick you or give you ridiculous puzzle or math problems :).
 
