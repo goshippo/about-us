@@ -15,7 +15,7 @@ Here's a general outline of the process:
 * You've applied [here](https://goshippo.com/jobs/)!
 * Manager/Recruiter Phone Screen (15-30 mins)
   * Chatting about experience, goals and general communications assessment. We are interested in what you are looking for in your next job.
-* Technical Phone Interview (15-45 mins)
+* Technical Phone Interview (30-60 mins)
   * Screening of candidate based on technical ability. We will also gauge your interest in various teams at Shippo.
 * Onsite (3-4 hours)
   * Each interview has 1 or 2 primary problem solving questions and 1 or 2 questions about your technical or teamwork experience.
