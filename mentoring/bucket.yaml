@@ -1,0 +1,21 @@
+about:
+  name: Daria Lamberson
+  dept: engg
+  hobbies:
+    - "Dancing"
+    - "Singing"
+    - "Playing video games"
+    - "Staring / saying 'awww' at every cute dog"
+  favorite_resources:
+    - I'm honestly not a big fan of reading for work, but the "Increment" (by Stripe) issues are interesting
+    - Asana is a part of my consistent capture system, especially because of the custom fields feature.
+# list 3-4 items you'd be keen on mentoring someone on
+be_a_mentor:
+  - "Finding a good consistent capture system for you"
+  - "Coupling personal growth with company growth (read: grow your career as your company matures)"
+  - "Frontend development with Ember and React/Redux"
+# list 3-4 items you'd want to learn more about
+seek_a_mentor:
+  - "Leading teams using lightweight processes, with a result of high quality output"
+  - "Trying out/choosing a career track (between IC, tech lead, manager)"
+  - "Knowledge sharing across engineering organization"
