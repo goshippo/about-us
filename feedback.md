@@ -7,3 +7,5 @@ This will create a level playing field and give a good idea of who you are as a 
 ### Resources
 
 [How to create a feedback culture](https://medium.dave-bailey.com/how-to-create-a-feedback-culture-6ba43db875dd) - Teams that are good at giving each other feedback are faster, more innovative, and often happier at work. Here’s why it’s not enough to just ask for honest feedback . . . and what you have to do to get it.    
+
+[Your feedback culture isn't working](https://hackernoon.com/your-feedback-culture-isnt-working-711d723d3aa2) - how to truly cultivate a feedback driven culture
