@@ -57,7 +57,7 @@ Behavior  | Oogway Says: | Re-enforces Core Value:
 --------- | ----------- | ------------
 [Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Excel at your craft | Customer First, Front Page Test
 [Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior/value.md) | Iterate to success | Customer First, Be Entrepreneurial, We haven't won yet
-[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Your opinion implemented | Be Entrepreneurial, We haven't won yet
+[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Your opinion matters | Be Entrepreneurial, We haven't won yet
 [Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior/authentic.md) | There's no "killing it" | Be Kind, The Front Page Test
 [Learn From Others](https://github.com/batmany13/shippo-about-us/blob/master/behavior/learn.md) | Free your mind | Be Entrepreneurial, We haven't won yet
 

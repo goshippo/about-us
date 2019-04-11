@@ -33,7 +33,7 @@ Here's a high level overview of our core behaviors, but we go into more detail f
 
 ### [Be Authentic](authentic.md)
 `There's no "killing it"` - we are more than our work, we are human and we're fallible
-* Transparency is the best polic
+* Transparency is the best policy
 * Frame "failure" and "weakness" as learning and growth opportunities
 * Its ok to feel :pensive: or :cry: or :angry:, talk to someone and we can work through it together
 * There's no "killing it"; startups are built on trial and error and solving problems.. forever
