@@ -6,7 +6,7 @@
 
 ### Our [Company](https://goshippo.com/about/) Vision
 
-We help bridge the distance between businesses and consumers
+We help bridge the distance between businesses and consumers :bridge_at_night: :raised_hands:
 
 ### Our Company Mission
 
@@ -25,7 +25,7 @@ Shippo brings businesses closer to their customers by making shipping effortless
 
 `To engineer user-centric shipping experiences that grow the Shippo network. `
 
-## Our Culture
+## Our Development Culture
 
 Defined as: `The system in which the team executes, makes decisions and behaves as a collective group`
 (sorry it's not about our free lunches, great benefits and awesome office :wink:)
