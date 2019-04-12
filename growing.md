@@ -33,3 +33,4 @@ The question might come up to "well how does this translate to salaries and rais
 ### Resources
 
 Compensation is from Measure what Matters reference to the Adobe model
+Detailed Job description of an [Engineering Leader](https://docs.google.com/document/d/19goqgF86b6qcs45Mo-JEbw7FpIVKA2Do-3epGWN4FK4/edit)
