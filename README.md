@@ -2,15 +2,15 @@
 
 ## WORK IN PROGRESS
 
-## Welcome to Shippo's About Us
+## Welcome to Shippo's Engineering About Us
 
-### Our Vision
+### Our [Company](https://goshippo.com/about/) Vision
 
-To become the leading shipping platform for commerce worldwide.
+We help bridge the distance between businesses and consumers
 
-### Our Mission
+### Our Company Mission
 
-To help businesses succeed through shipping.
+Shippo brings businesses closer to their customers by making shipping effortless. We enable magical moments where the digital and physical worlds converge.
 
 ### Our Values
 
