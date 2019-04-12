@@ -1,6 +1,6 @@
 <img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=30% height=30%>
 
-## THOUGHT IN PROGRESS - Requires Team Collaboration
+## WORK IN PROGRESS
 
 ## Welcome to Shippo's About Us
 
@@ -81,14 +81,14 @@ The second part is having CFRs (continuous, feedback, recognition), which is usi
 
 Phew, thats a lot to take in.  So how do we take all these concepts and put it in practice at Shippo?  By making it part of our day to day activities like these:
 
-### Supporting 
+### Support doing things well
 
 - Tightly coupled product and engineering collaboration to ensure we're building the right things based on available resources and reasonable time estimates
-- Adopting [Kanban](kanban.md) to limit WIP so engineers have time to focus on quality and shipping incremental pieces to production
+- Exploring [Kanban](kanban.md) to help limit WIP so engineers have time to focus on quality and shipping to production
 - [1x1s](1x1.md) focused on you.
 - [Hackathons](hackathon.md) to try new things and have fun doing it
 - We expect work/life balance.  You should have your weekends and vacation to recharge.  When we have company holidays, we take them off.
-- On-call that's reasonable; we currently do deploys during work hours and you are rarely paged off hours.
+- On-call that's reasonable; we have a formal rotation, and do deploys during work hours and even if you're on-call, you are rarely paged off hours.
 - Tech debt is paid at constant intervals and all projects accounts for this time.
 
 ### We really care about culture
