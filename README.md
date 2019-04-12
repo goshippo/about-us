@@ -6,7 +6,7 @@
 
 ### Our [Company](https://goshippo.com/about/) Vision
 
-We help bridge the distance between businesses and consumers :bridge_at_night: :raised_hands:
+We help bridge the distance between businesses and their customers :bridge_at_night: :raised_hands:
 
 ### Our Company Mission
 
