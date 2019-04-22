@@ -60,10 +60,12 @@ Here's a simple formula for making the mentorship work.  Come up with your own (
 * Fill out your bam/sam.  Submit it via slack to @bruce or @batman
 * Look through the bam/sams and figure out who'd be a good pair match (@bruce or @batman will share with you the full list of participants)
 * Setup an intro meeting (30 mins)
-  * 10 minutes : Person A, as the mentor will interview Person B and learn what they want to get out of the program, what they want to learn.  It is important the mentor LISTENS to this
-  * 10 minutes: Switch sides, and now Person B will interview Person A to determine what Person A wants to get out of the program.  Once again LISTEN as the interviewer.
-  * Person A will spend 5 mins to confirm back to Person B what they'd like to get out
-  * Person B will spend 5 mins to confirm back to Person A what they'd like to get out
+  * Share your Bams (10 mins)
+    * Spend 5 mins each going over your bams, talking a little bit of background and your skills and what you'd be able to mentor someone on.  Make sure when the person is talking, that there's active listening.
+  * Share your Sams (10 mins)
+    * Spend 5 mins each going over your sams, and what you're looking for in a mentor.
+  * Quick Reflection (10 mins)
+    * Each person should spend 5 mins communicating back the bams and sams to the person, and commenting on on the items that they can be a mentee and where they can be a mentor
 * Take your time (up to a week) and think through what the both want to get out of this program.  This is your chance to do two things:
   * Determine if you'd be a fit as mentors to each other
   * Determine the best program to build for the mentee based on the conversation and create a "lesson plan"; a list of things the mentee should do to get started
