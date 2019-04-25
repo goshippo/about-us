@@ -59,20 +59,23 @@ Here's a simple formula for making the mentorship work.  Come up with your own (
 
 * Fill out your bam/sam.  Submit it via slack to @bruce or @batman
 * Look through the bam/sams and figure out who'd be a good pair match (@bruce or @batman will share with you the full list of participants)
-* Setup an intro meeting (30 mins)
+* __The Intro__ Meeting (30 mins)
   * Share your Bams (10 mins)
     * Spend 5 mins each going over your bams, talking a little bit of background and your skills and what you'd be able to mentor someone on.  Make sure when the person is talking, that there's active listening.
   * Share your Sams (10 mins)
     * Spend 5 mins each going over your sams, and what you're looking for in a mentor.
   * Quick Reflection (10 mins)
     * Each person should spend 5 mins communicating back the bams and sams to the person, and commenting on on the items that they can be a mentee and where they can be a mentor
-* Take your time (up to a week) and think through what the both want to get out of this program.  This is your chance to do two things:
-  * Determine if you'd be a fit as mentors to each other
-  * Determine the best program to build for the mentee based on the conversation and create a "lesson plan"; a list of things the mentee should do to get started
-* Share the lesson Plan Meeting (1 hour)
-  * 30 minutes : Person A will go over the lesson plan, and let Person B ask questions
-  * 30 minutes : Person B will go over their lesson plan with Person A, and let Person A ask questions
-* Build a candence (at least once a month)
+* __Zen time__ (up to a week)
+  * Think through what you both want to get out of this program.  This is your chance to do two things:
+    * Determine if you'd be a fit as mentors to each other
+    * Determine the best program to build for the mentee based on the conversation and create a "lesson plan"; a list of things the mentee should do to get started
+* __First Step to Greatness__ Meeting (1 hour)
+  * Each person will bring a "first" step on how the person should get started and should be something they can do.
+* __Make it Personal__ (Continuous)
+  * Let your manager know and use this oppurtunity to add the mentorship to your dev plan
+  * Figure out how these can be incorporated into your 1x1 checkins and ideally have something to do with corporate/company OKRs.
+* __Build a Candence__ (at least once a month)
   * Based on the specific lesson plans, sync up with each other, and then check up on how things are going.
   * Each are making a __commitment__ to each other that they will take the time to work on this skill and grow it.
 

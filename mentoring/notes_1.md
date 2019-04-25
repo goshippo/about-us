@@ -15,6 +15,6 @@ It was also determined that while its best to have a 1 month candence for sync u
 
 Date: 5/1/2019
 
-Daria as a mentor - React & Redux
-Bruce as a meentor - lightweight processes focused on quality (adopting Kanban)
-Joint project - Find the best way to do deeper knowledge share among engineers
+Daria as a mentor - React & Redux   
+Bruce as a meentor - lightweight processes focused on quality (adopting Kanban)    
+Joint project - Find the best way to share deeper knowledge share among engineers
