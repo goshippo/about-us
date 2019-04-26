@@ -37,6 +37,11 @@ Senior Software Engineer | <li>SE III responsibilities</li><li>Manages implement
 
 #### People Leadership Track
 
+Level | Description
+----- | -----------
+Manager | 
+Director |
+
 ### Compensation
 
 The question might come up to "well how does this translate to salaries and raises"?  While its related, its not directly tied, here's how we calculate it is based on these 4 things
