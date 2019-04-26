@@ -8,6 +8,6 @@ At Shippo we're made up of several teams with dedicated team members looking to 
 Name | Description
 -----| -----------
 Viserion | Merchant Experience
-Saiyan | Growth
+[Saiyan](growth.md) | Growth
 Hydra | Core
 Cops | Carrier Ops
