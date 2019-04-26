@@ -2,7 +2,7 @@
 
 <img src=../rsrcs/saiyan.png>
 
-Growth Team focused on new user registration, activation and fraud.
+Growth Team focused on new user registration, activation and fraud prevention.
 
 ## Mission
 
