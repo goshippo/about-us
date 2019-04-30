@@ -7,7 +7,7 @@ We are currently revamping our core behaviors by going through team driven exerc
 
 ## Code it like you're going maintain it forever
 
-Taking ownership of our work, and being accountable and caring about your craft as well as how it will affect your co-workers and company.
+Taking ownership of your work, and being accountable and caring about your craft as well as how it will affect your co-workers and company.
 
 <img src=../rsrcs/core_session_1.jpg>
 
