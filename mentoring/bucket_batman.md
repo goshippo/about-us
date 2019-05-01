@@ -17,6 +17,9 @@ Date: 5/1/2019
 
 ### Daria as a mentor - React & Redux   
 
+* Work on [ENG-8504](https://shippo.atlassian.net/browse/ENG-8504)
+* Work on [ENG-8096](https://shippo.atlassian.net/browse/ENG-8096)
+
 ### Bruce as a mentor - lightweight processes focused on quality   
 
 __Thoughts / Ideas__
