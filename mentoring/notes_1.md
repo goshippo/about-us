@@ -3,7 +3,7 @@
 First discussed: 4/2/2019   
 Participants: Daria and Bruce
 
-### Intro Meeting (35 mins)
+### The Intro (35 mins)
 
 Date: 4/19/2019
 
@@ -11,10 +11,16 @@ In the first SMP intro meeting, we went through our bams and sams with each othe
 
 It was also determined that while its best to have a 1 month candence for sync up, its best to create a "personal OKR" for the work that the mentees are going work on, and then make it part of their 1x1 discussions with their respective managers.
 
-### Lesson Meeting
+### First Step to Greatness (1 hour)
 
 Date: 5/1/2019
 
-Daria as a mentor - React & Redux   
-Bruce as a meentor - lightweight processes focused on quality (adopting Kanban)    
-Joint project - Find the best way to share deeper knowledge share among engineers
+* Daria as a mentor - React & Redux   
+
+* Bruce as a mentor - lightweight processes focused on quality (adopting Kanban)    
+ * Building an autonomous team, will lessen the burden of creating rigid processes
+ * Determine the "mission" of your team, and what are its driving metrics and goals (Jake's work is helpful)
+ * What are processes that really matter to you?  Such as "delivering customer value".  Ideally the engineers will be steadied by core behaviors, but thats something you can incorporate into your "requirements".
+ * Adopt Kanban practices on top of your existing Sprint planning.  And use the tools to Focus on Quality, Reduce Work-in-progress, Deliver Often (and eventually balance demand against throughput, prioritize and eliminate variability, page 22).
+
+* Joint project - Find the best way to share deeper knowledge share among engineers
