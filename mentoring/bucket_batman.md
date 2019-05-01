@@ -19,7 +19,7 @@ Date: 5/1/2019
 
 ### Bruce as a mentor - lightweight processes focused on quality   
 
- * Quality has a lot of connatations, I think the definition shouldn't be measured by bugs in production, but something else, so thinking about what "quality" means to you
+ * Quality has a lot of connotations, I think the definition shouldn't be measured by bugs in production, but something else, so thinking about what "quality" means to you
  * Building an autonomous team, will lessen the burden of creating rigid processes (from How, Drive, Team of Teams)
  * Determine the "mission" of your team, and what are its driving metrics and goals (Jake's work is helpful)
  * What are processes that really matter to you?  Such as "delivering customer value".  Ideally the engineers will be grounded by core behaviors, but thats something you can incorporate into your "requirements".
