@@ -19,10 +19,27 @@ Date: 5/1/2019
 
 ### Bruce as a mentor - lightweight processes focused on quality   
 
+__Thoughts / Ideas__
  * Quality has a lot of connotations, I think the definition shouldn't be measured by bugs in production, but something else, so thinking about what "quality" means to you
  * Building an autonomous team, will lessen the burden of creating rigid processes (from How, Drive, Team of Teams)
  * Determine the "mission" of your team, and what are its driving metrics and goals (Jake's work is helpful)
  * What are processes that really matter to you?  Such as "delivering customer value".  Ideally the engineers will be grounded by core behaviors, but thats something you can incorporate into your "requirements".
+ * Incorporate measurement, using OKRs is good for this.
+ * Counter-balance - make sure we're not so focused that we lose innovation.  Have to think about how to encourage risk taking, venturing out, trying new things in any given process
  * Adopt Kanban practices on top of your existing Sprint planning.  And use the tools to Focus on Quality, Reduce Work-in-progress, Deliver Often (and eventually balance demand against throughput, prioritize and eliminate variability, page 22).
+ 
+__First Steps__
+
+ * Is there specific things you want to solve?
+ * Encourage you to read Kanban :)
+ * Engage in the Jake exercise
+ * Engage in core behaviors
+ * Determine how to combine your team's mission plus core behaviors and then come up with an OKR that you think is a bit inspirational for Q3.
+ * Observe/train on Kanban process on Growth team, see if you can apply it to the next sprint (don't change the sprint planning or anything else).
 
 ### Joint project - Find the best way to share deeper knowledge share among engineers
+
+ * What do we think limits exposure?  Nature of the grouping we have, sort of limits the ability for our engineers to see a lot.  What about a rotation program?
+ * How do we use this to also push ourselves?  Can encourage someone to get uncomfortable as part of their dev plan.  How do we get people to try something they don't want to try (ie Learn React, Learn Billing, Learn Go, Learn Django, Learn CircleCI etc)
+ * Tooling is never the issue, although some may be helpful, such as "Discourse" or "Stack Overflow" to make it easy to share
+ 
