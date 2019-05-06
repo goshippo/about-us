@@ -23,11 +23,16 @@ Don't get comfortable, and be willing to take risks and being fearless wth your 
 
 ## Session 3
 
-`It's the journey not the destination`
+`Be kind to yourself`
 
 As a counterbalance to "wartime", is to learn to take your time, do things right and do things without sacrificing your life.
 
 <img src=../rsrcs/core_session_3.jpg>
+
+
+What do we currently do to represent this behavior
+
+<img src=../rsrcs/core_session_3_2.jpg>
 
 ## Session 4
 
