@@ -49,17 +49,15 @@ Adopting core behaviors and measuring what matters helps us reach the "learning 
 
 ### Adopting Core Behaviors
 
-<img src=rsrcs/oogway.gif>
-
 These individual behaviors will make our team stronger
 
-Behavior  | Oogway Says: | Re-enforces Core Value:
+Behavior | Re-enforces Core Value:
 --------- | ----------- | ------------
-[Care about](https://github.com/batmany13/shippo-about-us/blob/master/behavior/care.md) | Excel at your craft | Customer First, Front Page Test
-[Unearth Value](https://github.com/batmany13/shippo-about-us/blob/master/behavior/value.md) | Iterate to success | Customer First, Be Entrepreneurial, We haven't won yet
-[Confer not defer](https://github.com/batmany13/shippo-about-us/blob/master/behavior/confer.md) | Your opinion matters | Be Entrepreneurial, We haven't won yet
-[Be Authentic](https://github.com/batmany13/shippo-about-us/blob/master/behavior/authentic.md) | There's no "killing it" | Be Kind, The Front Page Test
-[Learn From Others](https://github.com/batmany13/shippo-about-us/blob/master/behavior/learn.md) | Free your mind | Be Entrepreneurial, We haven't won yet
+Code it like you're going maintain it forever | Customer First, We haven't won yet
+Think with a wartime mentality | We haven't won yet, Be Entrepreneurial
+Be kind to yourlsef | Front Page Test, Be Kind
+Look at the big picture | Customer First, Be Entrepreneurial
+Win as a team | The Front Page Test, Be Kind, We haven't won yet
 
 Read more [details](behavior/README.md) and some [anti-patterns](antipattern.md).
 
@@ -91,7 +89,7 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 - On-call that's reasonable; we have a formal rotation, and do deploys during work hours and even if you're on-call, you are rarely paged off hours.
 - Tech debt is paid at constant intervals and all projects accounts for this time.
 
-### We really care about culture
+### We really care about making Shippo a great place to work
 
 - Interviews and hiring based on culture fit, ranking higher than technical ability
 - Performance reviews based on core values and behaviors and how you've grown

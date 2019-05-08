@@ -1,4 +1,4 @@
-## Core Behaviors
+## Core Behaviors (WIP)
 
 [_The best teams focus on fundamental skills_](https://medium.com/swlh/leaders-be-the-dumbest-in-the-room-777060a38d86)    
 [In this world, HOW we do anything means everything.](https://www.howistheanswer.com/how/)
@@ -11,15 +11,11 @@ We are currently revamping our core behaviors by going through team driven exerc
 
 Taking ownership of your work, and being accountable and caring about your craft as well as how it will affect your co-workers and company.
 
-<img src=../rsrcs/core_session_1.jpg>
-
 ## Session 2
 
 `Think with a wartime mentality`
 
 Don't get comfortable, and be willing to take risks and being fearless wth your work.
-
-<img src=../rsrcs/core_session_2.jpg>
 
 ## Session 3
 
@@ -27,18 +23,9 @@ Don't get comfortable, and be willing to take risks and being fearless wth your 
 
 As a counterbalance to "wartime", is to learn to take your time, do things right and do things without sacrificing your life.
 
-<img src=../rsrcs/core_session_3.jpg>
-
-
-What do we currently do to represent this behavior
-
-<img src=../rsrcs/core_session_3_2.jpg>
-
 ## Session 4
 
 `look at the big picture`   
 `win as a team`
 
 The 4th session is to determine if there are core behaviors we want that showed up in previous sessions.  So we all listed our favorites that we didn't think were captured by the first 3.  The two that won, were `look at the big picture` and `win as a team`.  We will expand on these as well, and also determine if they belong with other core behaviors or are standalone ones.
-
-<img src=../rsrcs/core_session_4.jpg>
