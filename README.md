@@ -49,7 +49,7 @@ Adopting core behaviors and measuring what matters helps us reach the "learning 
 
 ### Adopting Core Behaviors
 
-These individual behaviors will make our team stronger
+These individual behaviors will make our team stronger :muscle:
 
 Behavior | Re-enforces Core Value
 --------- | ------------
