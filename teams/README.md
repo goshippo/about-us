@@ -11,7 +11,9 @@ Viserion | Merchant Experience | Focused on retention and customer experience fo
 Hydra | Core | Focused on high performance, high scale core services such as rating engine, data pipeline, tracking services | TBD
 C-OPS | Carrier Ops | Focused on integrations with our carrier partners such as USPS, Fedex, UPS, DHL and others | TBD
 
-_Note, team specific links are internal_
+For more information, here are detailed team [responsibilites](https://shippo.atlassian.net/wiki/spaces/ENGG/pages/929234978/Team+Responsibilities)
+
+_Note, links are internal_
 
 ### How we work
 
