@@ -15,3 +15,10 @@ _Note, team specific links are internal_
 
 ### How we work
 
+While we follow some good processes, we definitely don't do process for process sake, and we always adopt concepts to how we work.  That being said, all of this is fluid and always looking to improve and enhance them.
+
+* 2 week sprints, with some teams testing kanban
+* DBCabal, submit data changes
+* Tech Design, the team helps you review your designs
+* Leads as volunteers, helping guide teams to success
+
