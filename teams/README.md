@@ -2,7 +2,7 @@
 
 <img src=../rsrcs/team_mission_exercise.jpeg>
 
-At Shippo we're made up of several teams with dedicated team members looking to build product and capabilities to fulfill our company [vision](https://goshippo.com/about/) and mission.  So, we have been running "design thinking" type exercises to come up with team based missions and whats in scope and out of scope for our teams.
+At Shippo we're made up of several teams with dedicated team members looking to build product and capabilities to fulfill our company [vision](https://goshippo.com/about/) and mission.  So, we have been running "design thinking" type exercises to come up with team based missions and figure out the What/Who/How/Why of the team.
 
 Name | Description | Mission
 -----| ----------- | --------
