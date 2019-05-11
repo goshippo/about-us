@@ -1,9 +1,9 @@
-### Team based Missions
+### Teams on a Mission
 
 <img src=../rsrcs/team_mission_exercise.jpeg>
 
 <br/>
-At Shippo we're made up of several teams with dedicated team members looking to build product and capabilities to fulfill our company vision and mission.  We followed a "design thinking" type process to come up with a team mission.
+At Shippo we're made up of several teams with dedicated team members looking to build product and capabilities to fulfill our company [vision](https://goshippo.com/about/) and mission.  So, we have been running "design thinking" type exercises to come up with team based missions and whats in scope and out of scope for our teams.
 
 Name | Description | Mission
 -----| ----------- | --------
@@ -15,3 +15,4 @@ C-OPS | Carrier Ops, focused on integrations with our carrier partners such as U
 _Note, links are internal_
 
 ### How we work
+
