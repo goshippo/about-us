@@ -1,16 +1,26 @@
-### Our Teams
+### Teams on a Mission
 
 <img src=../rsrcs/team_mission_exercise.jpeg>
 
-<br/>
-At Shippo we're made up of several teams with dedicated team members looking to build product and capabilities to fulfill our company vision and mission.  We're testing a new "design thinking" type process to come up with team missions and strategic goals that can help guide our OKRs.
+At Shippo we're made up of several teams with dedicated team members looking to build product and capabilities to fulfill our company [vision](https://goshippo.com/about/) and mission.  So, we have been running "design thinking" type exercises to come up with team based missions and figure out the What/Who/How/Why of the team.
 
 Name | Product Name | Description | Mission
------| ------------ | ----------- | ----------
-Viserion | Merchant Experience | Focused on retention and customer experience | TBD
-[Saiyan](growth.md) | Growth | Focused on user acquisition from signups, activation and fraud | `We help merchants succeed by making their Shippo experience both intuitive and delightful`
-Hydra | Core | high throughput, scale services such as data pipeline, local rating, tracking etc | TBD
-Cops | Carrier Ops | Integrations with carriers | TBD
+-----| ----------- | ----------- | --------
+Viserion | Merchant Experience | Focused on retention and customer experience for active Shippo customers | TBD
+[Saiyan](https://github.com/goshippo/getting-started/blob/master/teams/growth.md) | Growth | Focused on new user registration, activation and fraud prevention | `We help merchants succeed by making their Shippo experience both intuitive and delightful`
+Hydra | Core | Focused on high performance, high scale core services such as rating engine, data pipeline, tracking services | TBD
+C-ops | Carrier Ops | Focused on integrations with our carrier partners such as USPS, Fedex, UPS, DHL and others | TBD
 
-### Our Process
+For more information, here are detailed team [responsibilites](https://shippo.atlassian.net/wiki/spaces/ENGG/pages/929234978/Team+Responsibilities)
+
+_Note, links are internal_
+
+### How we work
+
+While we follow some good processes, we definitely don't do process for process sake, and we always adopt concepts to how we work.  That being said, all of this is fluid and always looking to improve and enhance them.
+
+* 2 week sprints, with some teams testing kanban
+* DBCabal, submit data changes
+* Tech Design, the team helps you review your designs
+* Leads as volunteers, helping guide teams to success
 
