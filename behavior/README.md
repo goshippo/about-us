@@ -12,6 +12,7 @@ We are currently revamping our core behaviors by going through team driven exerc
 Taking ownership of your work, and being accountable and caring about your craft as well as how it will affect your co-workers and company.
 
 Collator: Anna
+[Internal Draft](https://docs.google.com/document/d/1Xbro5rCKWRzsaeGBA2bD0a4wQSVRk2B5PgeM4nh6j44/edit)
 
 ## Session 2
 
@@ -36,5 +37,5 @@ Collator: James
 
 The 4th session is to determine if there are core behaviors we want that showed up in previous sessions.  So we all listed our favorites that we didn't think were captured by the first 3.  The two that won, were `look at the big picture` and `win as a team`.  We will expand on these as well, and also determine if they belong with other core behaviors or are standalone ones.
 
-Collator: Daria (Win as a team)    
-Collator: Bruce (Look at the big picture)
+Collator: Bruce (Look at the big picture)    
+Collator: Daria (Win as a team)
