@@ -13,16 +13,19 @@ We have a pretty straight forward process.  We aim to make it speedy, painless (
 Here's a general outline of the process:
 
 * You've applied [here](https://goshippo.com/jobs/)!
-* Manager/Recruiter Phone Screen (15-30 mins)
+* Manager/Recruiter Phone Screen (30-45 mins)
   * Chatting about experience, goals and general communications assessment. We are interested in what you are looking for in your next job.
-* Technical Phone Interview (30-60 mins)
-  * Screening of candidate based on technical ability. We will also gauge your interest in various teams at Shippo.
+* Technical Zoom Interview (60 mins)
+  * Tech Interview 1, Software Engineering
+    * Part 1, On coderpad, a coding question focused using data structures and simple algorithm.
+    * Part 2, Technical Experience Question
+  If time is of the essence, this can sometimes be given during the onsite but we typically prefer to do this screen first.
 * Onsite (3-4 hours)
   * Each interview has 1 or 2 primary problem solving questions and 1 or 2 questions about your technical or teamwork experience.
-  * Tech Interview 1, Software Engineering - Whiteboard coding question focused using data structures and simple algorithm.  Preferably real code.
   * Tech Interview 2, System Design - Whiteboard design question focused around systems interaction, scalability, and error handling.
   * Tech Interview 3, Software Design - Whiteboard software design focused on encapsulation, and data-driven application design.
   * Founder Chat - Discuss background on Shippo, core values/behavior fit
+  * Product Manager Chat (Optional) - Talk with product manager on the team you'll work for
   * Manager Wrap-up & Feedback - We want to gather feedback about how the interview went and about the process (what went well, what could be improved).  We'll also provide you any feedback that we may have.
 * Internal Recap
 * Decision
