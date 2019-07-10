@@ -6,10 +6,10 @@ At Shippo we're made up of several teams with dedicated team members looking to 
 
 Name | Product Name | Description | Mission
 -----| ----------- | ----------- | --------
-Viserion | Merchant Experience | Focused on retention and customer experience for active Shippo customers | TBD
+Viserion | Merchant Experience | Focused on retention and customer experience for active Shippo customers | `We provide a consistent and intuitive user experience for anyone who wants to ship, by building an efficient fulfillment process`
 [Saiyan](https://github.com/goshippo/getting-started/blob/master/teams/growth.md) | Growth | Focused on new user registration, activation and fraud prevention | `We help merchants succeed by making their Shippo experience both intuitive and delightful`
-Hydra | Core | Focused on high performance, high scale core services such as rating engine, data pipeline, tracking services | TBD
-C-ops | Carrier Ops | Focused on integrations with our carrier partners such as USPS, Fedex, UPS, DHL and others | TBD
+Hydra | Core | Focused on high performance, high scale core services such as rating engine, data pipeline, tracking services | `We build foundational systems that power Shippo`
+C-ops | Carrier Ops | Focused on integrations with our carrier partners such as USPS, Fedex, UPS, DHL and others | `We power simple, reliable and secure access to the carrier network for everyone who wants to ship`
 
 For more information, here are detailed team [responsibilites](https://shippo.atlassian.net/wiki/spaces/ENGG/pages/929234978/Team+Responsibilities)
 
