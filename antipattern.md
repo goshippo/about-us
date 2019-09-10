@@ -1,4 +1,4 @@
-## Behavior [Anit-patterns](https://en.wikipedia.org/wiki/Anti-pattern)
+## Behavior [Anti-patterns](https://en.wikipedia.org/wiki/Anti-pattern)
 
 ![stress](rsrcs/stress.jpg)
 
