@@ -56,8 +56,7 @@ Behavior | Re-enforces Core Value
 Code it like you're going maintain it forever | Customer First, We haven't won yet
 Dare greatly | We haven't won yet, Be Entrepreneurial
 Be kind to yourself | Front Page Test, Be Kind
-Look at the big picture | Customer First, Be Entrepreneurial
-Win as a team | The Front Page Test, Be Kind, We haven't won yet
+Ask Why? | Customer First, Be Entrepreneurial
 
 Read more [details](behavior/README.md) and some [anti-patterns](antipattern.md).
 
