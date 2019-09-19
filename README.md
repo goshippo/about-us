@@ -1,7 +1,5 @@
 <img src=https://goshippo.com/wp-content/uploads/2018/05/shippo-lockup-black-web-1.png width=30% height=30%>
 
-## WORK IN PROGRESS
-
 ## Welcome to Shippo's Engineering About Us
 
 ### Our [Company](https://goshippo.com/about/) Vision
