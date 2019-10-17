@@ -39,11 +39,12 @@ First we need to define a common language so we all know what we're talking abou
 <img src=rsrcs/learning_zone.jpeg>
 
 We believe that the two important elements to unlocking team (and company) success are:
-  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+  * [Psychological Safety](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) - _This means ensuring that no one is penalized if they ask for help or admit a mistake._
   * Intrinsic Motivations and accountability through [Autonomy, Mastery and Purpose](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us).
   
 Adopting core behaviors and measuring what matters helps us reach the "learning zone".
 
+**Note - The above image was taken from this [blog](https://peakon.com/blog/workplace-culture/psychological-safety) which is based on [research](https://hbr.org/2008/07/the-competitive-imperative-of-learning) by Amy Edmondson
 
 ### Adopting Core Behaviors
 
