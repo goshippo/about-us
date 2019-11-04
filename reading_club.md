@@ -1,4 +1,20 @@
-### Reading Club
+### Tech Book Club
+
+The tech book club @ Shippo is a way for our teams to read books and watch interesting videos and articles and discuss them as a team.  For current employees, you can find our discussions in this [slack channel](https://shippo.slack.com/messages/CJC6DLVC2)
+
+Recent Book Club Selections:
+
+- [Ruined by Design](https://www.goodreads.com/book/show/44432844-ruined-by-design) by Mike Monteiro - how designers destroyed the world
+- [Quiet](https://www.goodreads.com/book/show/8520610-quiet) by Susain Cain - power of introverts
+- [Radical Candor](https://www.goodreads.com/book/show/29939161-radical-candor) by Kim Scott - care deeply, challenge directly
+
+Recent Video Selections:
+
+- [Kubernetes Design Principles](https://www.youtube.com/watch?v=ZuIQurh_kDk) by Saad Ali
+- [What's new in Javascript](https://www.youtube.com/watch?v=c0oy0vQKEZE) Google I/O '19
+- [GraphQL Basics](https://www.youtube.com/watch?v=lAJWHHUz8_8)
+
+### Interesting Material
 
 There are a lot of books, blogs, articles we read but some really stick out and speak to us.  Here are some that's made a difference
 
