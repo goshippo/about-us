@@ -12,11 +12,12 @@ Shippo brings businesses closer to their customers by making shipping effortless
 
 ### Our Values
 
-* __Customer First__ - We put our customers first in everything we do. We will succeed if we deliver value and high quality products to our customers. We walk the extra mile to delight our customers with excellence and expertise.    
-* __The Front Page Test__ - We act with moral integrity and assume the best of each other. We trust each other to do the right *thing.    
-* __Be Entrepreneurial__ - We depend on each other’s work to be successful as a whole. We are proactive and resourceful, taking ownership and seeking to empower others.    
-* __Be Kind__ - We act from compassion — for our customers, the company, and each other. We show everyone we interact with respect, empathy, and kindness.    
-* __We haven't won yet__ - If we wanted “easy” we wouldn’t be here. We set high goals, push the boundaries, and pursue our goals relentlessly.    
+* __Customers For The Win__ - We put our customers first in everything we do.
+* __We Value Short Feedback Loops__ - It’s ok to fail, but we need to move quickly and learn as we go.
+* __We Are Passionate About Hard Challenges__ - We embrace hard challenges. Everyone can solve easy problems.
+* __We Are Optimists__ - We approach everything with positivity and energy. Our attitude is solutions oriented.
+* __We Are High In Conscientiousness__ - We are responsible and reliable team members.
+* __We Haven’t Won Yet__ - We set high goals and push the boundaries.
 
 
 ## Engineering's Mission
