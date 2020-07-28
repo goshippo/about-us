@@ -66,9 +66,8 @@ Read more [details](behavior/README.md) and some [anti-patterns](antipattern.md)
 
 We establish company wide OKRs and then spend each quarter working on building a bottoms up approach to defining team OKRs that will help move the needle.  The current 2020 OKRs are as follows:
 
-1. Make sure that existing Shippo customers have a user experience they rave about
-2. Make sure the foundation is in place for future growth in the SMB high volume segment
-3. Maintain growth trajectory
+1. All new e-commerce businesses choose Shippo
+2. Expand product value upmarket to larger ecommerce merchants
 
 The second part is having CFRs (continuous, feedback, recognition), which is using [1x1s](1x1.md), our OKRs software and giving each other meaniful and timely [feedback](feedback.md) to help reach our goals.  When key results don't make sense anymore, we adjust them, and we're always looking to improve them.
 
