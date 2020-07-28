@@ -53,10 +53,10 @@ These individual behaviors will make our team stronger :muscle:
 
 Behavior | Re-enforces Core Value
 --------- | ------------
-Code it like you're going maintain it forever | Customer First, We haven't won yet
-Dare greatly | We haven't won yet, Be Entrepreneurial
-Be kind to yourself | Front Page Test, Be Kind
-Ask Why? | Customer First, Be Entrepreneurial
+Code it like you're going maintain it forever | Customers For The Win
+Dare greatly | We Are Passionate About Hard Challenges
+Be kind to yourself | We Are High In Conscientiousness
+Ask Why? | Customers For The Win, We Are Optimists
 
 Read more [details](behavior/README.md) and some [anti-patterns](antipattern.md).
 
