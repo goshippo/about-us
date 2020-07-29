@@ -62,8 +62,6 @@ Read more [details](behavior/README.md) and some [anti-patterns](antipattern.md)
 
 ### Measuring what matters
 
-<img src=rsrcs/shipmypants.gif>
-
 We establish company wide OKRs and then spend each quarter working on building a bottoms up approach to defining team OKRs that will help move the needle.  The current 2020 OKRs are as follows:
 
 1. All new e-commerce businesses choose Shippo
@@ -80,7 +78,6 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 ### Support doing things well
 
 - Tightly coupled product and engineering collaboration to ensure we're building the right things based on available resources and reasonable time estimates
-- Exploring [Kanban](kanban.md) to help limit WIP so engineers have time to focus on quality and shipping to production
 - [1x1s](1x1.md) focused on you.
 - [Hackathons](hackathon.md) to try new things and have fun doing it
 - We expect work/life balance.  You should have your weekends and vacation to recharge.  When we have company holidays, we take them off.
@@ -110,6 +107,6 @@ Phew, thats a lot to take in.  So how do we take all these concepts and put it i
 
 * Our [Hiring](hiring.md) Process
 * Effective [1x1s](1x1.md)
-* Core Behavior [Details](behavior_details.md)
+* Core Behavior [Details](behavior/README.md)
 * Behavior [Antipatterns](antipattern.md)
 * Our [Reading](reading_club.md) Club
