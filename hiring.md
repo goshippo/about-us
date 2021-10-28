@@ -17,7 +17,7 @@ Here's a general outline of the process:
   * Chatting about experience, goals and general communications assessment. We are interested in what you are looking for in your next job.
 * Technical Zoom Interview (60 mins)
   * Tech Interview 1, Software Engineering
-    * Part 1, On coderpad, a coding question focused using data structures and simple algorithm.
+    * Part 1, On CodeSignal, a coding question focused using data structures and simple algorithm.
     * Part 2, Technical Experience Question
   If time is of the essence, this can sometimes be given during the onsite but we typically prefer to do this screen first.
 * Onsite (3-4 hours)
